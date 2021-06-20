@@ -1,0 +1,138 @@
+=== AngelChest spawned ===
+Player: Vikxng
+Player UUID: b0dd73b1-d5db-4b6a-bd9c-320eb69b4954
+Death Time: 2021-06-19 13:07:49
+Death Location: 527 41 -291 @ world
+Chest Location: 527 41 -291 @ world
+Death Cause: ENTITY_ATTACK
+Player XP: 0.15789495
+Chest XP: 42
+Chest Protection: true
+Chest Duration: 1800 seconds
+
+=== INFORMATION ===
+Please note that some plugins remove certain items on death (soulbound items etc.), while other plugins add certain drops (player heads etc.). That's why this log file show you three different item lists:
+1. The original inventory as it was when the player died. This does not include 3rd party plugin drops, but includes items that would have been removed on death, e.g. curse of vanishing items.
+2. The items the player would have dropped if AngelChest wouldn't be used. This does include 3rd party plugin drops but does not include non-droppable items like curse of vanishing items.
+3. The final AngelChest contents, which is a combination of 1. and 2. and does not include randomly lost items: it includes all custom drops and does not include non-droppable items.
+
+=== 1. Player Inventory ===
+The player had the following items in his inventory at the time of his death:
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{RAW_COPPER x 64}
+> ItemStack{RAW_IRON x 64}
+> ItemStack{GRAVEL x 30}
+> ItemStack{FLINT x 4}
+> ItemStack{GRANITE x 33}
+> ItemStack{POINTED_DRIPSTONE x 11}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=127}}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{GUNPOWDER x 2}
+> ItemStack{TUFF x 1}
+> ItemStack{RAW_GOLD x 25}
+> ItemStack{ANDESITE x 21}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=109}}
+> ItemStack{RAW_COPPER x 12}
+> ItemStack{BAKED_POTATO x 54}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=5}}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=163}}
+> ItemStack{TORCH x 47}
+> ItemStack{RAW_IRON x 38}
+> ItemStack{COAL x 64}
+> ItemStack{REDSTONE x 64}
+> ItemStack{LAPIS_LAZULI x 45}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=13}}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{DIORITE x 53}
+> ItemStack{REDSTONE x 64}
+> ItemStack{COBBLED_DEEPSLATE x 64}
+> ItemStack{REDSTONE x 3}
+> ItemStack{COBBLED_DEEPSLATE x 64}
+> ItemStack{POTATO x 56}
+> ItemStack{COAL x 27}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{COOKED_BEEF x 1}
+> ItemStack{GOLDEN_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=106}}
+
+=== 2. Player Drops ===
+The player would have dropped the following items at the time of this death:
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{RAW_COPPER x 64}
+> ItemStack{RAW_IRON x 64}
+> ItemStack{GRAVEL x 30}
+> ItemStack{FLINT x 4}
+> ItemStack{GRANITE x 33}
+> ItemStack{POINTED_DRIPSTONE x 11}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=127}}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{GUNPOWDER x 2}
+> ItemStack{TUFF x 1}
+> ItemStack{RAW_GOLD x 25}
+> ItemStack{ANDESITE x 21}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=109}}
+> ItemStack{RAW_COPPER x 12}
+> ItemStack{BAKED_POTATO x 54}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=5}}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=163}}
+> ItemStack{TORCH x 47}
+> ItemStack{RAW_IRON x 38}
+> ItemStack{COAL x 64}
+> ItemStack{REDSTONE x 64}
+> ItemStack{LAPIS_LAZULI x 45}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=13}}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{DIORITE x 53}
+> ItemStack{REDSTONE x 64}
+> ItemStack{COBBLED_DEEPSLATE x 64}
+> ItemStack{REDSTONE x 3}
+> ItemStack{COBBLED_DEEPSLATE x 64}
+> ItemStack{POTATO x 56}
+> ItemStack{COAL x 27}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{COOKED_BEEF x 1}
+> ItemStack{GOLDEN_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=106}}
+
+=== 3. AngelChest inventory ===
+The AngelChest contains the following items:
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{RAW_COPPER x 64}
+> ItemStack{RAW_IRON x 64}
+> ItemStack{GRAVEL x 30}
+> ItemStack{FLINT x 4}
+> ItemStack{GRANITE x 33}
+> ItemStack{POINTED_DRIPSTONE x 11}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=127}}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{GUNPOWDER x 2}
+> ItemStack{TUFF x 1}
+> ItemStack{RAW_GOLD x 25}
+> ItemStack{ANDESITE x 21}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=109}}
+> ItemStack{RAW_COPPER x 12}
+> ItemStack{BAKED_POTATO x 54}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=5}}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=163}}
+> ItemStack{TORCH x 47}
+> ItemStack{RAW_IRON x 38}
+> ItemStack{COAL x 64}
+> ItemStack{REDSTONE x 64}
+> ItemStack{LAPIS_LAZULI x 45}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=13}}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{DIORITE x 53}
+> ItemStack{REDSTONE x 64}
+> ItemStack{COBBLED_DEEPSLATE x 64}
+> ItemStack{REDSTONE x 3}
+> ItemStack{COBBLED_DEEPSLATE x 64}
+> ItemStack{POTATO x 56}
+> ItemStack{COAL x 27}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{COOKED_BEEF x 1}
+> ItemStack{GOLDEN_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=106}}
+

@@ -1,0 +1,171 @@
+=== AngelChest spawned ===
+Player: paulreob
+Player UUID: cb2fa5a8-bc09-42a2-8e69-bcc8ba050c4f
+Death Time: 2021-06-19 01:27:29
+Death Location: -124 63 339 @ world
+Chest Location: -124 63 339 @ world
+Death Cause: ENTITY_EXPLOSION
+Player XP: 0.17741933
+Chest XP: 100
+Chest Protection: true
+Chest Duration: 1800 seconds
+
+=== INFORMATION ===
+Please note that some plugins remove certain items on death (soulbound items etc.), while other plugins add certain drops (player heads etc.). That's why this log file show you three different item lists:
+1. The original inventory as it was when the player died. This does not include 3rd party plugin drops, but includes items that would have been removed on death, e.g. curse of vanishing items.
+2. The items the player would have dropped if AngelChest wouldn't be used. This does include 3rd party plugin drops but does not include non-droppable items like curse of vanishing items.
+3. The final AngelChest contents, which is a combination of 1. and 2. and does not include randomly lost items: it includes all custom drops and does not include non-droppable items.
+
+=== 1. Player Inventory ===
+The player had the following items in his inventory at the time of his death:
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=130}}
+> ItemStack{INK_SAC x 1}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=128}}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=31}}
+> ItemStack{OAK_PLANKS x 60}
+> ItemStack{WHEAT x 39}
+> ItemStack{BAKED_POTATO x 37}
+> ItemStack{SPRUCE_LOG x 64}
+> ItemStack{SHIELD x 1}
+> ItemStack{DIRT x 49}
+> ItemStack{GRANITE x 7}
+> ItemStack{POISONOUS_POTATO x 2}
+> ItemStack{SPRUCE_SAPLING x 1}
+> ItemStack{CHEST x 2}
+> ItemStack{STONE_HOE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=2}}
+> ItemStack{LEVER x 5}
+> ItemStack{SPRUCE_LOG x 19}
+> ItemStack{DARK_OAK_LOG x 64}
+> ItemStack{ARROW x 2}
+> ItemStack{STICK x 16}
+> ItemStack{COBBLED_DEEPSLATE x 9}
+> ItemStack{DARK_OAK_LOG x 7}
+> ItemStack{DARK_OAK_SAPLING x 1}
+> ItemStack{BEEF x 1}
+> ItemStack{POTATO x 64}
+> ItemStack{DIRT x 64}
+> ItemStack{SMOOTH_STONE_SLAB x 5}
+> ItemStack{TORCH x 1}
+> ItemStack{IRON_PICKAXE x 1}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=89}}
+> ItemStack{ROTTEN_FLESH x 2}
+> ItemStack{WHEAT_SEEDS x 8}
+> ItemStack{OAK_PLANKS x 2}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=84}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=11}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=72}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=11}}
+
+=== 2. Player Drops ===
+The player would have dropped the following items at the time of this death:
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=130}}
+> ItemStack{INK_SAC x 1}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=128}}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=31}}
+> ItemStack{OAK_PLANKS x 60}
+> ItemStack{WHEAT x 39}
+> ItemStack{BAKED_POTATO x 37}
+> ItemStack{SPRUCE_LOG x 64}
+> ItemStack{SHIELD x 1}
+> ItemStack{DIRT x 49}
+> ItemStack{GRANITE x 7}
+> ItemStack{POISONOUS_POTATO x 2}
+> ItemStack{SPRUCE_SAPLING x 1}
+> ItemStack{CHEST x 2}
+> ItemStack{STONE_HOE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=2}}
+> ItemStack{LEVER x 5}
+> ItemStack{SPRUCE_LOG x 19}
+> ItemStack{DARK_OAK_LOG x 64}
+> ItemStack{ARROW x 2}
+> ItemStack{STICK x 16}
+> ItemStack{COBBLED_DEEPSLATE x 9}
+> ItemStack{DARK_OAK_LOG x 7}
+> ItemStack{DARK_OAK_SAPLING x 1}
+> ItemStack{BEEF x 1}
+> ItemStack{POTATO x 64}
+> ItemStack{DIRT x 64}
+> ItemStack{SMOOTH_STONE_SLAB x 5}
+> ItemStack{TORCH x 1}
+> ItemStack{IRON_PICKAXE x 1}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=89}}
+> ItemStack{ROTTEN_FLESH x 2}
+> ItemStack{WHEAT_SEEDS x 8}
+> ItemStack{OAK_PLANKS x 2}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=84}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=11}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=72}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=11}}
+
+=== 3. AngelChest inventory ===
+The AngelChest contains the following items:
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=130}}
+> ItemStack{INK_SAC x 1}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=128}}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=31}}
+> ItemStack{OAK_PLANKS x 60}
+> ItemStack{WHEAT x 39}
+> ItemStack{BAKED_POTATO x 37}
+> ItemStack{SPRUCE_LOG x 64}
+> ItemStack{SHIELD x 1}
+> ItemStack{DIRT x 49}
+> ItemStack{GRANITE x 7}
+> ItemStack{POISONOUS_POTATO x 2}
+> ItemStack{SPRUCE_SAPLING x 1}
+> ItemStack{CHEST x 2}
+> ItemStack{STONE_HOE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=2}}
+> ItemStack{LEVER x 5}
+> ItemStack{SPRUCE_LOG x 19}
+> ItemStack{DARK_OAK_LOG x 64}
+> ItemStack{ARROW x 2}
+> ItemStack{STICK x 16}
+> ItemStack{COBBLED_DEEPSLATE x 9}
+> ItemStack{DARK_OAK_LOG x 7}
+> ItemStack{DARK_OAK_SAPLING x 1}
+> ItemStack{BEEF x 1}
+> ItemStack{POTATO x 64}
+> ItemStack{DIRT x 64}
+> ItemStack{SMOOTH_STONE_SLAB x 5}
+> ItemStack{TORCH x 1}
+> ItemStack{IRON_PICKAXE x 1}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=89}}
+> ItemStack{ROTTEN_FLESH x 2}
+> ItemStack{WHEAT_SEEDS x 8}
+> ItemStack{OAK_PLANKS x 2}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=84}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=11}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=72}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=11}}
+
+[2021-06-19 01:35:27] Player "paulreob" paid 0.000000 to open this AngelChest for the first time.
+[2021-06-19 01:35:29] Player "paulreob" took item: ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=11}}
+[2021-06-19 01:35:29] Player "paulreob" took item: ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=11}}
+[2021-06-19 01:35:29] Player "paulreob" took item: ItemStack{GRANITE x 7}
+[2021-06-19 01:35:29] Player "paulreob" took item: ItemStack{POISONOUS_POTATO x 2}
+[2021-06-19 01:35:29] Player "paulreob" took item: ItemStack{CHEST x 2}
+[2021-06-19 01:35:29] Player "paulreob" took item: ItemStack{STONE_HOE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=2}}
+[2021-06-19 01:35:29] Player "paulreob" took item: ItemStack{LEVER x 5}
+[2021-06-19 01:35:29] Player "paulreob" took item: ItemStack{SPRUCE_LOG x 19}
+[2021-06-19 01:35:29] Player "paulreob" took item: ItemStack{DARK_OAK_LOG x 64}
+[2021-06-19 01:35:29] Player "paulreob" took item: ItemStack{ARROW x 2}
+[2021-06-19 01:35:29] Player "paulreob" took item: ItemStack{STICK x 16}
+[2021-06-19 01:35:29] Player "paulreob" took item: ItemStack{COBBLED_DEEPSLATE x 9}
+[2021-06-19 01:35:29] Player "paulreob" took item: ItemStack{DARK_OAK_LOG x 7}
+[2021-06-19 01:35:29] Player "paulreob" took item: ItemStack{POTATO x 64}
+[2021-06-19 01:35:29] Player "paulreob" took item: ItemStack{DIRT x 64}
+[2021-06-19 01:35:29] Player "paulreob" took item: ItemStack{SMOOTH_STONE_SLAB x 5}
+[2021-06-19 01:35:29] Player "paulreob" took item: ItemStack{TORCH x 1}
+[2021-06-19 01:35:29] Player "paulreob" took item: ItemStack{IRON_PICKAXE x 1}
+[2021-06-19 01:35:29] Player "paulreob" took item: ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=89}}
+[2021-06-19 01:35:29] Player "paulreob" took item: ItemStack{ROTTEN_FLESH x 2}
+[2021-06-19 01:35:44] Player "paulreob" took item: ItemStack{SPRUCE_LOG x 19}
+[2021-06-19 01:35:46] Player "paulreob" took item: ItemStack{BAKED_POTATO x 37}
+[2021-06-19 01:35:46] Player "paulreob" took item: ItemStack{WHEAT x 39}
+[2021-06-19 01:35:47] Player "paulreob" took item: ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=128}}
+[2021-06-19 01:35:49] Player "paulreob" took item: ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=128}}
+[2021-06-19 01:35:50] Player "paulreob" took item: ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=31}}
+[2021-06-19 01:35:59] Player "paulreob" took item: ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=128}}
+[2021-06-19 01:36:00] Player "paulreob" took item: ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=31}}
+[2021-06-19 01:36:02] Player "paulreob" took item: ItemStack{SHIELD x 1}
+[2021-06-19 01:37:04] Player "paulreob" took item: ItemStack{OAK_PLANKS x 60}
+[2021-06-19 01:37:04] Player "paulreob" took item: ItemStack{WHEAT x 39}
+[2021-06-19 01:37:08] Player "paulreob" took item: ItemStack{WHEAT x 39}

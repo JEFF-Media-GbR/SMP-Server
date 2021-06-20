@@ -1,0 +1,141 @@
+=== AngelChest spawned ===
+Player: therev99
+Player UUID: e1970038-a6a1-44e0-9e40-f1dd8855393c
+Death Time: 2021-06-19 23:11:45
+Death Location: 3579 52 1716 @ world
+Chest Location: 3579 52 1716 @ world
+Death Cause: PROJECTILE
+Player XP: 0.92592585
+Chest XP: 70
+Chest Protection: true
+Chest Duration: 1800 seconds
+
+=== INFORMATION ===
+Please note that some plugins remove certain items on death (soulbound items etc.), while other plugins add certain drops (player heads etc.). That's why this log file show you three different item lists:
+1. The original inventory as it was when the player died. This does not include 3rd party plugin drops, but includes items that would have been removed on death, e.g. curse of vanishing items.
+2. The items the player would have dropped if AngelChest wouldn't be used. This does include 3rd party plugin drops but does not include non-droppable items like curse of vanishing items.
+3. The final AngelChest contents, which is a combination of 1. and 2. and does not include randomly lost items: it includes all custom drops and does not include non-droppable items.
+
+=== 1. Player Inventory ===
+The player had the following items in his inventory at the time of his death:
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=20}}
+> ItemStack{SUGAR_CANE x 64}
+> ItemStack{BAMBOO x 3}
+> ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=102}}
+> ItemStack{CRAFTING_TABLE x 1}
+> ItemStack{WHEAT x 7}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=4}}
+> ItemStack{CARROT x 13}
+> ItemStack{GOLDEN_HORSE_ARMOR x 1}
+> ItemStack{GOLDEN_APPLE x 1}
+> ItemStack{BREAD x 6}
+> ItemStack{BEETROOT_SEEDS x 7}
+> ItemStack{CHICKEN x 8}
+> ItemStack{MUTTON x 6}
+> ItemStack{PORKCHOP x 8}
+> ItemStack{POTATO x 29}
+> ItemStack{COAL x 64}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{IRON_INGOT x 20}
+> ItemStack{SUGAR_CANE x 6}
+> ItemStack{DISPENSER x 10}
+> ItemStack{LEATHER x 5}
+> ItemStack{FILLED_MAP x 1, MAP_META:{meta-type=MAP, display-name={"translate":"filled_map.buried_treasure"}, internal=H4sIAAAAAAAA/+NiYOBk4HZJTc4vSizJzM8r5mJgYGBkY2CscGjyYAABILvKoQPC5mBgykxhYNRmZGApqSxIlWJjYC7KL3FIa2CAAABNrcYRTgAAAA==, map-id=0}}
+> ItemStack{RAW_COPPER x 32}
+> ItemStack{PUMPKIN x 3}
+> ItemStack{SUGAR_CANE x 64}
+> ItemStack{COAL x 50}
+> ItemStack{ACACIA_PLANKS x 59}
+> ItemStack{GOLD_INGOT x 22}
+> ItemStack{TORCH x 9}
+> ItemStack{BEEF x 11}
+> ItemStack{LEATHER_BOOTS x 1, LEATHER_ARMOR_META:{meta-type=LEATHER_ARMOR, enchants={FROST_WALKER=2}}}
+> ItemStack{MAGMA_BLOCK x 14}
+> ItemStack{COBBLESTONE x 4}
+> ItemStack{GOLDEN_HELMET x 1}
+> ItemStack{EMERALD x 3}
+> ItemStack{LEATHER_LEGGINGS x 1, LEATHER_ARMOR_META:{meta-type=LEATHER_ARMOR, enchants={PROTECTION_ENVIRONMENTAL=3}, Damage=8}}
+> ItemStack{GOLDEN_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=9}}
+
+=== 2. Player Drops ===
+The player would have dropped the following items at the time of this death:
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=20}}
+> ItemStack{SUGAR_CANE x 64}
+> ItemStack{BAMBOO x 3}
+> ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=102}}
+> ItemStack{CRAFTING_TABLE x 1}
+> ItemStack{WHEAT x 7}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=4}}
+> ItemStack{CARROT x 13}
+> ItemStack{GOLDEN_HORSE_ARMOR x 1}
+> ItemStack{GOLDEN_APPLE x 1}
+> ItemStack{BREAD x 6}
+> ItemStack{BEETROOT_SEEDS x 7}
+> ItemStack{CHICKEN x 8}
+> ItemStack{MUTTON x 6}
+> ItemStack{PORKCHOP x 8}
+> ItemStack{POTATO x 29}
+> ItemStack{COAL x 64}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{IRON_INGOT x 20}
+> ItemStack{SUGAR_CANE x 6}
+> ItemStack{DISPENSER x 10}
+> ItemStack{LEATHER x 5}
+> ItemStack{FILLED_MAP x 1, MAP_META:{meta-type=MAP, display-name={"translate":"filled_map.buried_treasure"}, internal=H4sIAAAAAAAA/+NiYOBk4HZJTc4vSizJzM8r5mJgYGBkY2CscGjyYAABILvKoQPC5mBgykxhYNRmZGApqSxIlWJjYC7KL3FIa2CAAABNrcYRTgAAAA==, map-id=0}}
+> ItemStack{RAW_COPPER x 32}
+> ItemStack{PUMPKIN x 3}
+> ItemStack{SUGAR_CANE x 64}
+> ItemStack{COAL x 50}
+> ItemStack{ACACIA_PLANKS x 59}
+> ItemStack{GOLD_INGOT x 22}
+> ItemStack{TORCH x 9}
+> ItemStack{BEEF x 11}
+> ItemStack{LEATHER_BOOTS x 1, LEATHER_ARMOR_META:{meta-type=LEATHER_ARMOR, enchants={FROST_WALKER=2}}}
+> ItemStack{MAGMA_BLOCK x 14}
+> ItemStack{COBBLESTONE x 4}
+> ItemStack{GOLDEN_HELMET x 1}
+> ItemStack{EMERALD x 3}
+> ItemStack{LEATHER_LEGGINGS x 1, LEATHER_ARMOR_META:{meta-type=LEATHER_ARMOR, enchants={PROTECTION_ENVIRONMENTAL=3}, Damage=8}}
+> ItemStack{GOLDEN_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=9}}
+
+=== 3. AngelChest inventory ===
+The AngelChest contains the following items:
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=20}}
+> ItemStack{SUGAR_CANE x 64}
+> ItemStack{BAMBOO x 3}
+> ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=102}}
+> ItemStack{CRAFTING_TABLE x 1}
+> ItemStack{WHEAT x 7}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=4}}
+> ItemStack{CARROT x 13}
+> ItemStack{GOLDEN_HORSE_ARMOR x 1}
+> ItemStack{GOLDEN_APPLE x 1}
+> ItemStack{BREAD x 6}
+> ItemStack{BEETROOT_SEEDS x 7}
+> ItemStack{CHICKEN x 8}
+> ItemStack{MUTTON x 6}
+> ItemStack{PORKCHOP x 8}
+> ItemStack{POTATO x 29}
+> ItemStack{COAL x 64}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{IRON_INGOT x 20}
+> ItemStack{SUGAR_CANE x 6}
+> ItemStack{DISPENSER x 10}
+> ItemStack{LEATHER x 5}
+> ItemStack{FILLED_MAP x 1, MAP_META:{meta-type=MAP, display-name={"translate":"filled_map.buried_treasure"}, internal=H4sIAAAAAAAA/+NiYOBk4HZJTc4vSizJzM8r5mJgYGBkY2CscGjyYAABILvKoQPC5mBgykxhYNRmZGApqSxIlWJjYC7KL3FIa2CAAABNrcYRTgAAAA==, map-id=0}}
+> ItemStack{RAW_COPPER x 32}
+> ItemStack{PUMPKIN x 3}
+> ItemStack{SUGAR_CANE x 64}
+> ItemStack{COAL x 50}
+> ItemStack{ACACIA_PLANKS x 59}
+> ItemStack{GOLD_INGOT x 22}
+> ItemStack{TORCH x 9}
+> ItemStack{BEEF x 11}
+> ItemStack{LEATHER_BOOTS x 1, LEATHER_ARMOR_META:{meta-type=LEATHER_ARMOR, enchants={FROST_WALKER=2}}}
+> ItemStack{MAGMA_BLOCK x 14}
+> ItemStack{COBBLESTONE x 4}
+> ItemStack{GOLDEN_HELMET x 1}
+> ItemStack{EMERALD x 3}
+> ItemStack{LEATHER_LEGGINGS x 1, LEATHER_ARMOR_META:{meta-type=LEATHER_ARMOR, enchants={PROTECTION_ENVIRONMENTAL=3}, Damage=8}}
+> ItemStack{GOLDEN_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=9}}
+

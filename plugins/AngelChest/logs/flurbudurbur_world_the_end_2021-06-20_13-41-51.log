@@ -1,0 +1,193 @@
+=== AngelChest spawned ===
+Player: flurbudurbur
+Player UUID: 465b3f5f-3a10-4ab5-94b1-6ce7be8a8d70
+Death Time: 2021-06-20 13:41:51
+Death Location: 1074 59 -939 @ world_the_end
+Chest Location: 1074 59 -939 @ world_the_end
+Death Cause: FALL
+Player XP: 0.57894737
+Chest XP: 42
+Chest Protection: true
+Chest Duration: 1800 seconds
+
+=== INFORMATION ===
+Please note that some plugins remove certain items on death (soulbound items etc.), while other plugins add certain drops (player heads etc.). That's why this log file show you three different item lists:
+1. The original inventory as it was when the player died. This does not include 3rd party plugin drops, but includes items that would have been removed on death, e.g. curse of vanishing items.
+2. The items the player would have dropped if AngelChest wouldn't be used. This does include 3rd party plugin drops but does not include non-droppable items like curse of vanishing items.
+3. The final AngelChest contents, which is a combination of 1. and 2. and does not include randomly lost items: it includes all custom drops and does not include non-droppable items.
+
+=== 1. Player Inventory ===
+The player had the following items in his inventory at the time of his death:
+> ItemStack{DIAMOND_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=13}}
+> ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={DIG_SPEED=4, MENDING=1}}}
+> ItemStack{OAK_BOAT x 1}
+> ItemStack{CRAFTING_TABLE x 1}
+> ItemStack{COOKED_MUTTON x 14}
+> ItemStack{TORCH x 63}
+> ItemStack{DIRT x 64}
+> ItemStack{WATER_BUCKET x 1}
+> ItemStack{GRANITE x 27}
+> ItemStack{CARROT x 64}
+> ItemStack{BEETROOT_SEEDS x 4}
+> ItemStack{GRANITE x 64}
+> ItemStack{CHORUS_FRUIT x 10}
+> ItemStack{END_STONE x 3}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=3}}}
+> ItemStack{CARROT x 39}
+> ItemStack{BREAD x 3}
+> ItemStack{BREAD x 64}
+> ItemStack{DIRT x 64}
+> ItemStack{DIAMOND_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=8}}
+> ItemStack{SPRUCE_PLANKS x 3}
+> ItemStack{GRANITE x 21}
+> ItemStack{SHIELD x 1}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=8}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=8}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={DURABILITY=3, PROTECTION_PROJECTILE=4}}}
+> ItemStack{BIRCH_LOG x 12}
+> ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=138}}
+> ItemStack{SHULKER_SHELL x 1}
+> ItemStack{DIAMOND_HORSE_ARMOR x 1}
+> ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=388}}
+> ItemStack{DIAMOND_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={DURABILITY=3, PROTECTION_ENVIRONMENTAL=3}}}
+> ItemStack{DIAMOND x 6}
+> ItemStack{GOLD_INGOT x 2}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_FIRE=3, FROST_WALKER=2}}}
+> ItemStack{IRON_INGOT x 7}
+> ItemStack{DIAMOND_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={MENDING=1, PROTECTION_ENVIRONMENTAL=4, DURABILITY=3}}}
+> ItemStack{DIAMOND_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=4, DURABILITY=3}}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_FIRE=4, DURABILITY=3}}}
+> ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=188, blockMaterial=SHIELD}}
+
+=== 2. Player Drops ===
+The player would have dropped the following items at the time of this death:
+> ItemStack{DIAMOND_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=13}}
+> ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={DIG_SPEED=4, MENDING=1}}}
+> ItemStack{OAK_BOAT x 1}
+> ItemStack{CRAFTING_TABLE x 1}
+> ItemStack{COOKED_MUTTON x 14}
+> ItemStack{TORCH x 63}
+> ItemStack{DIRT x 64}
+> ItemStack{WATER_BUCKET x 1}
+> ItemStack{GRANITE x 27}
+> ItemStack{CARROT x 64}
+> ItemStack{BEETROOT_SEEDS x 4}
+> ItemStack{GRANITE x 64}
+> ItemStack{CHORUS_FRUIT x 10}
+> ItemStack{END_STONE x 3}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=3}}}
+> ItemStack{CARROT x 39}
+> ItemStack{BREAD x 3}
+> ItemStack{BREAD x 64}
+> ItemStack{DIRT x 64}
+> ItemStack{DIAMOND_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=8}}
+> ItemStack{SPRUCE_PLANKS x 3}
+> ItemStack{GRANITE x 21}
+> ItemStack{SHIELD x 1}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=8}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=8}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={DURABILITY=3, PROTECTION_PROJECTILE=4}}}
+> ItemStack{BIRCH_LOG x 12}
+> ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=138}}
+> ItemStack{SHULKER_SHELL x 1}
+> ItemStack{DIAMOND_HORSE_ARMOR x 1}
+> ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=388}}
+> ItemStack{DIAMOND_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={DURABILITY=3, PROTECTION_ENVIRONMENTAL=3}}}
+> ItemStack{DIAMOND x 6}
+> ItemStack{GOLD_INGOT x 2}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_FIRE=3, FROST_WALKER=2}}}
+> ItemStack{IRON_INGOT x 7}
+> ItemStack{DIAMOND_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={MENDING=1, PROTECTION_ENVIRONMENTAL=4, DURABILITY=3}}}
+> ItemStack{DIAMOND_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=4, DURABILITY=3}}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_FIRE=4, DURABILITY=3}}}
+> ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=188, blockMaterial=SHIELD}}
+
+=== 3. AngelChest inventory ===
+The AngelChest contains the following items:
+> ItemStack{DIAMOND_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=13}}
+> ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={DIG_SPEED=4, MENDING=1}}}
+> ItemStack{OAK_BOAT x 1}
+> ItemStack{CRAFTING_TABLE x 1}
+> ItemStack{COOKED_MUTTON x 14}
+> ItemStack{TORCH x 63}
+> ItemStack{DIRT x 64}
+> ItemStack{WATER_BUCKET x 1}
+> ItemStack{GRANITE x 27}
+> ItemStack{CARROT x 64}
+> ItemStack{BEETROOT_SEEDS x 4}
+> ItemStack{GRANITE x 64}
+> ItemStack{CHORUS_FRUIT x 10}
+> ItemStack{END_STONE x 3}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=3}}}
+> ItemStack{CARROT x 39}
+> ItemStack{BREAD x 3}
+> ItemStack{BREAD x 64}
+> ItemStack{DIRT x 64}
+> ItemStack{DIAMOND_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=8}}
+> ItemStack{SPRUCE_PLANKS x 3}
+> ItemStack{GRANITE x 21}
+> ItemStack{SHIELD x 1}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=8}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=8}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={DURABILITY=3, PROTECTION_PROJECTILE=4}}}
+> ItemStack{BIRCH_LOG x 12}
+> ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=138}}
+> ItemStack{SHULKER_SHELL x 1}
+> ItemStack{DIAMOND_HORSE_ARMOR x 1}
+> ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=388}}
+> ItemStack{DIAMOND_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={DURABILITY=3, PROTECTION_ENVIRONMENTAL=3}}}
+> ItemStack{DIAMOND x 6}
+> ItemStack{GOLD_INGOT x 2}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_FIRE=3, FROST_WALKER=2}}}
+> ItemStack{IRON_INGOT x 7}
+> ItemStack{DIAMOND_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={MENDING=1, PROTECTION_ENVIRONMENTAL=4, DURABILITY=3}}}
+> ItemStack{DIAMOND_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=4, DURABILITY=3}}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_FIRE=4, DURABILITY=3}}}
+> ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=188, blockMaterial=SHIELD}}
+
+[2021-06-20 13:43:23] Player "flurbudurbur" paid 0.000000 to open this AngelChest for the first time.
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{DIAMOND_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=4, DURABILITY=3}}}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_FIRE=4, DURABILITY=3}}}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{OAK_BOAT x 1}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{CRAFTING_TABLE x 1}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{COOKED_MUTTON x 14}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{TORCH x 63}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{DIRT x 64}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{WATER_BUCKET x 1}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{GRANITE x 27}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{CARROT x 64}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{BEETROOT_SEEDS x 4}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{GRANITE x 64}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{CHORUS_FRUIT x 10}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{END_STONE x 3}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=3}}}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{CARROT x 39}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{BREAD x 3}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{BREAD x 64}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{DIRT x 64}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{DIAMOND_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=8}}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{SPRUCE_PLANKS x 3}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{GRANITE x 21}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{SHIELD x 1}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=8}}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=8}}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={DURABILITY=3, PROTECTION_PROJECTILE=4}}}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{BIRCH_LOG x 12}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=138}}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{SHULKER_SHELL x 1}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{DIAMOND_HORSE_ARMOR x 1}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=388}}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{DIAMOND_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={DURABILITY=3, PROTECTION_ENVIRONMENTAL=3}}}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{DIAMOND x 6}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{GOLD_INGOT x 2}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_FIRE=3, FROST_WALKER=2}}}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{IRON_INGOT x 7}
+[2021-06-20 13:43:23] Player "flurbudurbur" took item: ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=188, blockMaterial=SHIELD}}
+[2021-06-20 13:44:10] Player "flurbudurbur" took item: ItemStack{DIAMOND_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=13}}
+[2021-06-20 13:44:13] Player "flurbudurbur" took item: ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={DIG_SPEED=4, MENDING=1}}}
+[2021-06-20 13:44:19] Player "flurbudurbur" took item: ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={DIG_SPEED=4, MENDING=1}}}
+[2021-06-20 13:44:20] Player "flurbudurbur" took item: ItemStack{DIAMOND_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={MENDING=1, PROTECTION_ENVIRONMENTAL=4, DURABILITY=3}}}
+
+[2021-06-20 13:44:20] Player "flurbudurbur" took the last item. Removing AngelChest!
+
+=== AngelChest removed ===

@@ -1,0 +1,192 @@
+=== AngelChest spawned ===
+Player: AcesGamingUK
+Player UUID: 2524abf0-7f55-4955-ab3d-a02a78093c45
+Death Time: 2021-06-17 17:57:17
+Death Location: 273 8 18 @ world
+Chest Location: 273 8 18 @ world
+Death Cause: FIRE_TICK
+Player XP: 0.21621616
+Chest XP: 100
+Chest Protection: true
+Chest Duration: 1800 seconds
+
+=== INFORMATION ===
+Please note that some plugins remove certain items on death (soulbound items etc.), while other plugins add certain drops (player heads etc.). That's why this log file show you three different item lists:
+1. The original inventory as it was when the player died. This does not include 3rd party plugin drops, but includes items that would have been removed on death, e.g. curse of vanishing items.
+2. The items the player would have dropped if AngelChest wouldn't be used. This does include 3rd party plugin drops but does not include non-droppable items like curse of vanishing items.
+3. The final AngelChest contents, which is a combination of 1. and 2. and does not include randomly lost items: it includes all custom drops and does not include non-droppable items.
+
+=== 1. Player Inventory ===
+The player had the following items in his inventory at the time of his death:
+> ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=1}}
+> ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=188}}
+> ItemStack{CRAFTING_TABLE x 1}
+> ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=47}}
+> ItemStack{COAL x 5}
+> ItemStack{COAL x 64}
+> ItemStack{RAW_IRON x 64}
+> ItemStack{COOKED_MUTTON x 1}
+> ItemStack{STICK x 21}
+> ItemStack{RAW_IRON x 2}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{GRANITE x 22}
+> ItemStack{REDSTONE x 64}
+> ItemStack{REDSTONE x 64}
+> ItemStack{COBBLED_DEEPSLATE x 64}
+> ItemStack{CHICKEN x 2}
+> ItemStack{TUFF x 58}
+> ItemStack{LAPIS_LAZULI x 37}
+> ItemStack{RAW_GOLD x 12}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{ANDESITE x 1}
+> ItemStack{DIAMOND x 21}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{DIORITE x 17}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=19}}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{REDSTONE x 9}
+> ItemStack{OAK_PLANKS x 5}
+> ItemStack{DIRT x 7}
+> ItemStack{COBBLED_DEEPSLATE x 8}
+> ItemStack{TORCH x 16}
+> ItemStack{COOKED_BEEF x 11}
+> ItemStack{BONE x 2}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=27}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=10}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=27}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=10}}
+> ItemStack{COBBLESTONE x 11}
+
+=== 2. Player Drops ===
+The player would have dropped the following items at the time of this death:
+> ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=1}}
+> ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=188}}
+> ItemStack{CRAFTING_TABLE x 1}
+> ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=47}}
+> ItemStack{COAL x 5}
+> ItemStack{COAL x 64}
+> ItemStack{RAW_IRON x 64}
+> ItemStack{COOKED_MUTTON x 1}
+> ItemStack{STICK x 21}
+> ItemStack{RAW_IRON x 2}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{GRANITE x 22}
+> ItemStack{REDSTONE x 64}
+> ItemStack{REDSTONE x 64}
+> ItemStack{COBBLED_DEEPSLATE x 64}
+> ItemStack{CHICKEN x 2}
+> ItemStack{TUFF x 58}
+> ItemStack{LAPIS_LAZULI x 37}
+> ItemStack{RAW_GOLD x 12}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{ANDESITE x 1}
+> ItemStack{DIAMOND x 21}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{DIORITE x 17}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=19}}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{REDSTONE x 9}
+> ItemStack{OAK_PLANKS x 5}
+> ItemStack{DIRT x 7}
+> ItemStack{COBBLED_DEEPSLATE x 8}
+> ItemStack{TORCH x 16}
+> ItemStack{COOKED_BEEF x 11}
+> ItemStack{BONE x 2}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=27}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=10}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=27}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=10}}
+> ItemStack{COBBLESTONE x 11}
+
+=== 3. AngelChest inventory ===
+The AngelChest contains the following items:
+> ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=1}}
+> ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=188}}
+> ItemStack{CRAFTING_TABLE x 1}
+> ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=47}}
+> ItemStack{COAL x 5}
+> ItemStack{COAL x 64}
+> ItemStack{RAW_IRON x 64}
+> ItemStack{COOKED_MUTTON x 1}
+> ItemStack{STICK x 21}
+> ItemStack{RAW_IRON x 2}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{GRANITE x 22}
+> ItemStack{REDSTONE x 64}
+> ItemStack{REDSTONE x 64}
+> ItemStack{COBBLED_DEEPSLATE x 64}
+> ItemStack{CHICKEN x 2}
+> ItemStack{TUFF x 58}
+> ItemStack{LAPIS_LAZULI x 37}
+> ItemStack{RAW_GOLD x 12}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{ANDESITE x 1}
+> ItemStack{DIAMOND x 21}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{DIORITE x 17}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=19}}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{REDSTONE x 9}
+> ItemStack{OAK_PLANKS x 5}
+> ItemStack{DIRT x 7}
+> ItemStack{COBBLED_DEEPSLATE x 8}
+> ItemStack{TORCH x 16}
+> ItemStack{COOKED_BEEF x 11}
+> ItemStack{BONE x 2}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=27}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=10}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=27}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=10}}
+> ItemStack{COBBLESTONE x 11}
+
+[2021-06-17 17:58:30] Player "AcesGamingUK" paid 0.000000 to open this AngelChest for the first time.
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=27}}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=10}}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=27}}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=10}}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=1}}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=188}}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{CRAFTING_TABLE x 1}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=47}}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{COAL x 5}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{COAL x 64}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{RAW_IRON x 64}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{COOKED_MUTTON x 1}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{STICK x 21}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{RAW_IRON x 2}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{COBBLESTONE x 64}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{COBBLESTONE x 64}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{GRANITE x 22}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{REDSTONE x 64}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{REDSTONE x 64}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{COBBLED_DEEPSLATE x 64}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{CHICKEN x 2}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{TUFF x 58}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{LAPIS_LAZULI x 37}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{RAW_GOLD x 12}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{COBBLESTONE x 64}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{ANDESITE x 1}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{DIAMOND x 21}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{COBBLESTONE x 64}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{DIORITE x 17}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{COBBLESTONE x 64}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=19}}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{COBBLESTONE x 64}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{REDSTONE x 9}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{OAK_PLANKS x 5}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{DIRT x 7}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{COBBLED_DEEPSLATE x 8}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{TORCH x 16}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{COOKED_BEEF x 11}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{BONE x 2}
+[2021-06-17 17:58:31] Player "AcesGamingUK" took item: ItemStack{COBBLESTONE x 11}
+
+[2021-06-17 17:58:31] Player "AcesGamingUK" took the last item. Removing AngelChest!
+
+=== AngelChest removed ===

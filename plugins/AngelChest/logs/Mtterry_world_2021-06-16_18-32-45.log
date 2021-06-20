@@ -1,0 +1,125 @@
+=== AngelChest spawned ===
+Player: Mtterry
+Player UUID: 06d5b100-a7c0-4dea-b08b-da9e5bbd3aed
+Death Time: 2021-06-16 18:32:45
+Death Location: 300 73 -167 @ world
+Chest Location: 300 73 -167 @ world
+Death Cause: ENTITY_ATTACK
+Player XP: 0.6153847
+Chest XP: 21
+Chest Protection: true
+Chest Duration: 1800 seconds
+
+=== INFORMATION ===
+Please note that some plugins remove certain items on death (soulbound items etc.), while other plugins add certain drops (player heads etc.). That's why this log file show you three different item lists:
+1. The original inventory as it was when the player died. This does not include 3rd party plugin drops, but includes items that would have been removed on death, e.g. curse of vanishing items.
+2. The items the player would have dropped if AngelChest wouldn't be used. This does include 3rd party plugin drops but does not include non-droppable items like curse of vanishing items.
+3. The final AngelChest contents, which is a combination of 1. and 2. and does not include randomly lost items: it includes all custom drops and does not include non-droppable items.
+
+=== 1. Player Inventory ===
+The player had the following items in his inventory at the time of his death:
+> ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=11}}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=15}}
+> ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=75}}
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=14}}
+> ItemStack{OAK_LOG x 48}
+> ItemStack{OAK_PLANKS x 60}
+> ItemStack{CARROT x 15}
+> ItemStack{SPRUCE_LOG x 26}
+> ItemStack{BREAD x 5}
+> ItemStack{RAW_IRON x 12}
+> ItemStack{SPIDER_EYE x 1}
+> ItemStack{DIRT x 25}
+> ItemStack{ARROW x 5}
+> ItemStack{DIRT x 64}
+> ItemStack{OAK_SAPLING x 9}
+> ItemStack{WHEAT_SEEDS x 3}
+> ItemStack{STRING x 1}
+> ItemStack{GUNPOWDER x 2}
+> ItemStack{BIRCH_LOG x 11}
+> ItemStack{BIRCH_SAPLING x 4}
+> ItemStack{BONE x 2}
+> ItemStack{ROTTEN_FLESH x 3}
+> ItemStack{STICK x 2}
+
+=== 2. Player Drops ===
+The player would have dropped the following items at the time of this death:
+> ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=11}}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=15}}
+> ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=75}}
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=14}}
+> ItemStack{OAK_LOG x 48}
+> ItemStack{OAK_PLANKS x 60}
+> ItemStack{CARROT x 15}
+> ItemStack{SPRUCE_LOG x 26}
+> ItemStack{BREAD x 5}
+> ItemStack{RAW_IRON x 12}
+> ItemStack{SPIDER_EYE x 1}
+> ItemStack{DIRT x 25}
+> ItemStack{ARROW x 5}
+> ItemStack{DIRT x 64}
+> ItemStack{OAK_SAPLING x 9}
+> ItemStack{WHEAT_SEEDS x 3}
+> ItemStack{STRING x 1}
+> ItemStack{GUNPOWDER x 2}
+> ItemStack{BIRCH_LOG x 11}
+> ItemStack{BIRCH_SAPLING x 4}
+> ItemStack{BONE x 2}
+> ItemStack{ROTTEN_FLESH x 3}
+> ItemStack{STICK x 2}
+
+=== 3. AngelChest inventory ===
+The AngelChest contains the following items:
+> ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=11}}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=15}}
+> ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=75}}
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=14}}
+> ItemStack{OAK_LOG x 48}
+> ItemStack{OAK_PLANKS x 60}
+> ItemStack{CARROT x 15}
+> ItemStack{SPRUCE_LOG x 26}
+> ItemStack{BREAD x 5}
+> ItemStack{RAW_IRON x 12}
+> ItemStack{SPIDER_EYE x 1}
+> ItemStack{DIRT x 25}
+> ItemStack{ARROW x 5}
+> ItemStack{DIRT x 64}
+> ItemStack{OAK_SAPLING x 9}
+> ItemStack{WHEAT_SEEDS x 3}
+> ItemStack{STRING x 1}
+> ItemStack{GUNPOWDER x 2}
+> ItemStack{BIRCH_LOG x 11}
+> ItemStack{BIRCH_SAPLING x 4}
+> ItemStack{BONE x 2}
+> ItemStack{ROTTEN_FLESH x 3}
+> ItemStack{STICK x 2}
+
+[2021-06-16 18:33:18] Player "Mtterry" paid 0.000000 to open this AngelChest for the first time.
+[2021-06-16 18:33:19] Player "Mtterry" took item: ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=11}}
+[2021-06-16 18:33:24] Player "Mtterry" took item: ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=15}}
+[2021-06-16 18:33:24] Player "Mtterry" took item: ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=75}}
+[2021-06-16 18:33:25] Player "Mtterry" took item: ItemStack{OAK_LOG x 48}
+[2021-06-16 18:33:25] Player "Mtterry" took item: ItemStack{OAK_PLANKS x 60}
+[2021-06-16 18:33:26] Player "Mtterry" took item: ItemStack{CARROT x 15}
+[2021-06-16 18:33:26] Player "Mtterry" took item: ItemStack{SPRUCE_LOG x 26}
+[2021-06-16 18:33:27] Player "Mtterry" took item: ItemStack{BREAD x 5}
+[2021-06-16 18:33:27] Player "Mtterry" took item: ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=14}}
+[2021-06-16 18:33:28] Player "Mtterry" took item: ItemStack{BONE x 2}
+[2021-06-16 18:33:29] Player "Mtterry" took item: ItemStack{STICK x 2}
+[2021-06-16 18:33:29] Player "Mtterry" took item: ItemStack{WHEAT_SEEDS x 3}
+[2021-06-16 18:33:29] Player "Mtterry" took item: ItemStack{RAW_IRON x 12}
+[2021-06-16 18:33:29] Player "Mtterry" took item: ItemStack{SPIDER_EYE x 1}
+[2021-06-16 18:33:30] Player "Mtterry" took item: ItemStack{OAK_SAPLING x 9}
+[2021-06-16 18:33:30] Player "Mtterry" took item: ItemStack{ROTTEN_FLESH x 3}
+[2021-06-16 18:33:30] Player "Mtterry" took item: ItemStack{STRING x 1}
+[2021-06-16 18:33:31] Player "Mtterry" took item: ItemStack{DIRT x 25}
+[2021-06-16 18:33:31] Player "Mtterry" took item: ItemStack{GUNPOWDER x 2}
+[2021-06-16 18:33:32] Player "Mtterry" took item: ItemStack{BIRCH_LOG x 11}
+[2021-06-16 18:33:32] Player "Mtterry" took item: ItemStack{ARROW x 5}
+[2021-06-16 18:33:32] Player "Mtterry" took item: ItemStack{DIRT x 64}
+[2021-06-16 18:33:33] Player "Mtterry" took item: ItemStack{BIRCH_SAPLING x 4}
+[2021-06-16 18:33:33] Player "Mtterry" took XP: 21
+
+[2021-06-16 18:33:33] Player "Mtterry" took the last item. Removing AngelChest!
+
+=== AngelChest removed ===

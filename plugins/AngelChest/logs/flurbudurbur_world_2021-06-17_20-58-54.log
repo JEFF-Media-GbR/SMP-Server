@@ -1,0 +1,175 @@
+=== AngelChest spawned ===
+Player: flurbudurbur
+Player UUID: 465b3f5f-3a10-4ab5-94b1-6ce7be8a8d70
+Death Time: 2021-06-17 20:58:54
+Death Location: 300 65 -92 @ world
+Chest Location: 300 65 -92 @ world
+Death Cause: ENTITY_ATTACK
+Player XP: 0.21195687
+Chest XP: 100
+Chest Protection: true
+Chest Duration: 1800 seconds
+
+=== INFORMATION ===
+Please note that some plugins remove certain items on death (soulbound items etc.), while other plugins add certain drops (player heads etc.). That's why this log file show you three different item lists:
+1. The original inventory as it was when the player died. This does not include 3rd party plugin drops, but includes items that would have been removed on death, e.g. curse of vanishing items.
+2. The items the player would have dropped if AngelChest wouldn't be used. This does include 3rd party plugin drops but does not include non-droppable items like curse of vanishing items.
+3. The final AngelChest contents, which is a combination of 1. and 2. and does not include randomly lost items: it includes all custom drops and does not include non-droppable items.
+
+=== 1. Player Inventory ===
+The player had the following items in his inventory at the time of his death:
+> ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=113}}
+> ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=1210}}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=189}}
+> ItemStack{IRON_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=161}}
+> ItemStack{SPRUCE_LOG x 2}
+> ItemStack{OAK_STAIRS x 42}
+> ItemStack{OAK_SLAB x 28}
+> ItemStack{COBBLESTONE x 16}
+> ItemStack{COBBLESTONE_STAIRS x 6}
+> ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=183, blockMaterial=SHIELD}}
+> ItemStack{OAK_SIGN x 2}
+> ItemStack{FLINT_AND_STEEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=4}}
+> ItemStack{CARROT x 1}
+> ItemStack{OAK_SAPLING x 5}
+> ItemStack{WHEAT_SEEDS x 1}
+> ItemStack{TORCH x 54}
+> ItemStack{OAK_FENCE x 20}
+> ItemStack{CRAFTING_TABLE x 1}
+> ItemStack{OAK_LOG x 64}
+> ItemStack{OAK_LOG x 31}
+> ItemStack{GOLD_NUGGET x 1}
+> ItemStack{GRANITE x 8}
+> ItemStack{OAK_DOOR x 1}
+> ItemStack{STICK x 7}
+> ItemStack{OAK_LOG x 64}
+> ItemStack{ROTTEN_FLESH x 1}
+> ItemStack{LEATHER_HELMET x 1, LEATHER_ARMOR_META:{meta-type=LEATHER_ARMOR, Damage=47}}
+> ItemStack{OAK_PLANKS x 6}
+> ItemStack{SPRUCE_PLANKS x 2}
+> ItemStack{SPRUCE_DOOR x 1}
+> ItemStack{BUCKET x 1}
+> ItemStack{COOKED_MUTTON x 24}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=138}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=138}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=143}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=138}}
+
+=== 2. Player Drops ===
+The player would have dropped the following items at the time of this death:
+> ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=113}}
+> ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=1210}}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=189}}
+> ItemStack{IRON_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=161}}
+> ItemStack{SPRUCE_LOG x 2}
+> ItemStack{OAK_STAIRS x 42}
+> ItemStack{OAK_SLAB x 28}
+> ItemStack{COBBLESTONE x 16}
+> ItemStack{COBBLESTONE_STAIRS x 6}
+> ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=183, blockMaterial=SHIELD}}
+> ItemStack{OAK_SIGN x 2}
+> ItemStack{FLINT_AND_STEEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=4}}
+> ItemStack{CARROT x 1}
+> ItemStack{OAK_SAPLING x 5}
+> ItemStack{WHEAT_SEEDS x 1}
+> ItemStack{TORCH x 54}
+> ItemStack{OAK_FENCE x 20}
+> ItemStack{CRAFTING_TABLE x 1}
+> ItemStack{OAK_LOG x 64}
+> ItemStack{OAK_LOG x 31}
+> ItemStack{GOLD_NUGGET x 1}
+> ItemStack{GRANITE x 8}
+> ItemStack{OAK_DOOR x 1}
+> ItemStack{STICK x 7}
+> ItemStack{OAK_LOG x 64}
+> ItemStack{ROTTEN_FLESH x 1}
+> ItemStack{LEATHER_HELMET x 1, LEATHER_ARMOR_META:{meta-type=LEATHER_ARMOR, Damage=47}}
+> ItemStack{OAK_PLANKS x 6}
+> ItemStack{SPRUCE_PLANKS x 2}
+> ItemStack{SPRUCE_DOOR x 1}
+> ItemStack{BUCKET x 1}
+> ItemStack{COOKED_MUTTON x 24}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=138}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=138}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=143}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=138}}
+
+=== 3. AngelChest inventory ===
+The AngelChest contains the following items:
+> ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=113}}
+> ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=1210}}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=189}}
+> ItemStack{IRON_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=161}}
+> ItemStack{SPRUCE_LOG x 2}
+> ItemStack{OAK_STAIRS x 42}
+> ItemStack{OAK_SLAB x 28}
+> ItemStack{COBBLESTONE x 16}
+> ItemStack{COBBLESTONE_STAIRS x 6}
+> ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=183, blockMaterial=SHIELD}}
+> ItemStack{OAK_SIGN x 2}
+> ItemStack{FLINT_AND_STEEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=4}}
+> ItemStack{CARROT x 1}
+> ItemStack{OAK_SAPLING x 5}
+> ItemStack{WHEAT_SEEDS x 1}
+> ItemStack{TORCH x 54}
+> ItemStack{OAK_FENCE x 20}
+> ItemStack{CRAFTING_TABLE x 1}
+> ItemStack{OAK_LOG x 64}
+> ItemStack{OAK_LOG x 31}
+> ItemStack{GOLD_NUGGET x 1}
+> ItemStack{GRANITE x 8}
+> ItemStack{OAK_DOOR x 1}
+> ItemStack{STICK x 7}
+> ItemStack{OAK_LOG x 64}
+> ItemStack{ROTTEN_FLESH x 1}
+> ItemStack{LEATHER_HELMET x 1, LEATHER_ARMOR_META:{meta-type=LEATHER_ARMOR, Damage=47}}
+> ItemStack{OAK_PLANKS x 6}
+> ItemStack{SPRUCE_PLANKS x 2}
+> ItemStack{SPRUCE_DOOR x 1}
+> ItemStack{BUCKET x 1}
+> ItemStack{COOKED_MUTTON x 24}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=138}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=138}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=143}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=138}}
+
+[2021-06-17 20:59:00] Player "flurbudurbur" paid 0.000000 to open this AngelChest for the first time.
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=138}}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=138}}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=143}}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=138}}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=1210}}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=189}}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{IRON_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=161}}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{SPRUCE_LOG x 2}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{OAK_STAIRS x 42}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{OAK_SLAB x 28}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{COBBLESTONE x 16}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{COBBLESTONE_STAIRS x 6}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=183, blockMaterial=SHIELD}}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{OAK_SIGN x 2}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{FLINT_AND_STEEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=4}}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{CARROT x 1}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{OAK_SAPLING x 5}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{WHEAT_SEEDS x 1}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{TORCH x 54}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{OAK_FENCE x 20}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{CRAFTING_TABLE x 1}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{OAK_LOG x 64}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{OAK_LOG x 31}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{GOLD_NUGGET x 1}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{GRANITE x 8}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{OAK_DOOR x 1}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{STICK x 7}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{OAK_LOG x 64}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{ROTTEN_FLESH x 1}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{LEATHER_HELMET x 1, LEATHER_ARMOR_META:{meta-type=LEATHER_ARMOR, Damage=47}}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{OAK_PLANKS x 6}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{SPRUCE_PLANKS x 2}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{SPRUCE_DOOR x 1}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{BUCKET x 1}
+[2021-06-17 20:59:00] Player "flurbudurbur" took item: ItemStack{COOKED_MUTTON x 24}
+
+[2021-06-17 20:59:00] Player "flurbudurbur" took the last item. Removing AngelChest!
+
+=== AngelChest removed ===

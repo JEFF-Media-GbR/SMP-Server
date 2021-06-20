@@ -1,0 +1,117 @@
+=== AngelChest spawned ===
+Player: Cazcez
+Player UUID: dee0c76f-0ecb-429b-bc5c-db624d907910
+Death Time: 2021-06-20 12:40:25
+Death Location: 509 42 110 @ world
+Chest Location: 509 42 110 @ world
+Death Cause: ENTITY_EXPLOSION
+Player XP: 0.09803944
+Chest XP: 100
+Chest Protection: true
+Chest Duration: 1800 seconds
+
+=== INFORMATION ===
+Please note that some plugins remove certain items on death (soulbound items etc.), while other plugins add certain drops (player heads etc.). That's why this log file show you three different item lists:
+1. The original inventory as it was when the player died. This does not include 3rd party plugin drops, but includes items that would have been removed on death, e.g. curse of vanishing items.
+2. The items the player would have dropped if AngelChest wouldn't be used. This does include 3rd party plugin drops but does not include non-droppable items like curse of vanishing items.
+3. The final AngelChest contents, which is a combination of 1. and 2. and does not include randomly lost items: it includes all custom drops and does not include non-droppable items.
+
+=== 1. Player Inventory ===
+The player had the following items in his inventory at the time of his death:
+> ItemStack{DIAMOND_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=155}}
+> ItemStack{DIAMOND_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=667}}
+> ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=1299}}
+> ItemStack{DIAMOND_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=56}}
+> ItemStack{CARROT x 45}
+> ItemStack{COAL x 20}
+> ItemStack{CROSSBOW x 1, CROSSBOW_META:{meta-type=CROSSBOW, enchants={PIERCING=1}, Damage=213, charged=true, charged-projectiles=[ItemStack{ARROW x 1}]}}
+> ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=97, blockMaterial=SHIELD}}
+> ItemStack{ENDER_PEARL x 7}
+> ItemStack{DISPENSER x 10}
+> ItemStack{LEVER x 5}
+> ItemStack{COBBLESTONE x 8}
+> ItemStack{RAW_IRON x 3}
+> ItemStack{RAW_COPPER x 15}
+> ItemStack{ARROW x 52}
+> ItemStack{CARROT x 64}
+> ItemStack{CROSSBOW x 1, CROSSBOW_META:{meta-type=CROSSBOW, Damage=15, charged=true, charged-projectiles=[ItemStack{ARROW x 1}]}}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={SOUL_SPEED=2}, Damage=113}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=145}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=145}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=145}}
+> ItemStack{TORCH x 39}
+
+=== 2. Player Drops ===
+The player would have dropped the following items at the time of this death:
+> ItemStack{DIAMOND_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=155}}
+> ItemStack{DIAMOND_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=667}}
+> ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=1299}}
+> ItemStack{DIAMOND_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=56}}
+> ItemStack{CARROT x 45}
+> ItemStack{COAL x 20}
+> ItemStack{CROSSBOW x 1, CROSSBOW_META:{meta-type=CROSSBOW, enchants={PIERCING=1}, Damage=213, charged=true, charged-projectiles=[ItemStack{ARROW x 1}]}}
+> ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=97, blockMaterial=SHIELD}}
+> ItemStack{ENDER_PEARL x 7}
+> ItemStack{DISPENSER x 10}
+> ItemStack{LEVER x 5}
+> ItemStack{COBBLESTONE x 8}
+> ItemStack{RAW_IRON x 3}
+> ItemStack{RAW_COPPER x 15}
+> ItemStack{ARROW x 52}
+> ItemStack{CARROT x 64}
+> ItemStack{CROSSBOW x 1, CROSSBOW_META:{meta-type=CROSSBOW, Damage=15, charged=true, charged-projectiles=[ItemStack{ARROW x 1}]}}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={SOUL_SPEED=2}, Damage=113}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=145}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=145}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=145}}
+> ItemStack{TORCH x 39}
+
+=== 3. AngelChest inventory ===
+The AngelChest contains the following items:
+> ItemStack{DIAMOND_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=155}}
+> ItemStack{DIAMOND_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=667}}
+> ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=1299}}
+> ItemStack{DIAMOND_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=56}}
+> ItemStack{CARROT x 45}
+> ItemStack{COAL x 20}
+> ItemStack{CROSSBOW x 1, CROSSBOW_META:{meta-type=CROSSBOW, enchants={PIERCING=1}, Damage=213, charged=true, charged-projectiles=[ItemStack{ARROW x 1}]}}
+> ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=97, blockMaterial=SHIELD}}
+> ItemStack{ENDER_PEARL x 7}
+> ItemStack{DISPENSER x 10}
+> ItemStack{LEVER x 5}
+> ItemStack{COBBLESTONE x 8}
+> ItemStack{RAW_IRON x 3}
+> ItemStack{RAW_COPPER x 15}
+> ItemStack{ARROW x 52}
+> ItemStack{CARROT x 64}
+> ItemStack{CROSSBOW x 1, CROSSBOW_META:{meta-type=CROSSBOW, Damage=15, charged=true, charged-projectiles=[ItemStack{ARROW x 1}]}}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={SOUL_SPEED=2}, Damage=113}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=145}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=145}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=145}}
+> ItemStack{TORCH x 39}
+
+[2021-06-20 12:40:49] Player "Cazcez" paid 0.000000 to open this AngelChest for the first time.
+[2021-06-20 12:40:51] Player "Cazcez" took item: ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={SOUL_SPEED=2}, Damage=113}}
+[2021-06-20 12:40:51] Player "Cazcez" took item: ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=145}}
+[2021-06-20 12:40:51] Player "Cazcez" took item: ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=145}}
+[2021-06-20 12:40:51] Player "Cazcez" took item: ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=145}}
+[2021-06-20 12:40:51] Player "Cazcez" took item: ItemStack{DIAMOND_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=56}}
+[2021-06-20 12:40:51] Player "Cazcez" took item: ItemStack{CARROT x 45}
+[2021-06-20 12:40:51] Player "Cazcez" took item: ItemStack{COAL x 20}
+[2021-06-20 12:40:51] Player "Cazcez" took item: ItemStack{CROSSBOW x 1, CROSSBOW_META:{meta-type=CROSSBOW, enchants={PIERCING=1}, Damage=213, charged=true, charged-projectiles=[ItemStack{ARROW x 1}]}}
+[2021-06-20 12:40:51] Player "Cazcez" took item: ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=97, blockMaterial=SHIELD}}
+[2021-06-20 12:40:51] Player "Cazcez" took item: ItemStack{ENDER_PEARL x 7}
+[2021-06-20 12:40:51] Player "Cazcez" took item: ItemStack{DISPENSER x 10}
+[2021-06-20 12:40:51] Player "Cazcez" took item: ItemStack{LEVER x 5}
+[2021-06-20 12:40:51] Player "Cazcez" took item: ItemStack{COBBLESTONE x 8}
+[2021-06-20 12:40:51] Player "Cazcez" took item: ItemStack{RAW_IRON x 3}
+[2021-06-20 12:40:51] Player "Cazcez" took item: ItemStack{RAW_COPPER x 15}
+[2021-06-20 12:40:51] Player "Cazcez" took item: ItemStack{ARROW x 52}
+[2021-06-20 12:40:51] Player "Cazcez" took item: ItemStack{CARROT x 64}
+[2021-06-20 12:40:51] Player "Cazcez" took item: ItemStack{CROSSBOW x 1, CROSSBOW_META:{meta-type=CROSSBOW, Damage=15, charged=true, charged-projectiles=[ItemStack{ARROW x 1}]}}
+[2021-06-20 12:40:51] Player "Cazcez" took item: ItemStack{TORCH x 39}
+
+[2021-06-20 12:40:51] Player "Cazcez" took the last item. Removing AngelChest!
+
+=== AngelChest removed ===

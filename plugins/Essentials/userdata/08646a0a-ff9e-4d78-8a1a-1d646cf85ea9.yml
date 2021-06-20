@@ -1,0 +1,44 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 191.84.217.92
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1623945889070
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1623946950753
+  login: 1623941641740
+money: '0'
+last-account-name: TheCiROMG
+lastlocation:
+  world: dd708c59-a9a2-4022-87a4-fab30985f6b3
+  x: -108.3988686969381
+  y: 10.0
+  z: 304.0614928763651
+  yaw: 15.6964111328125
+  pitch: 10.648971557617188
+homes:
+  casa:
+    world: dd708c59-a9a2-4022-87a4-fab30985f6b3
+    x: -103.6299636497001
+    y: 11.0
+    z: 299.76249998807907
+    yaw: -58.5435791015625
+    pitch: 19.39933204650879
+logoutlocation:
+  world: dd708c59-a9a2-4022-87a4-fab30985f6b3
+  x: -104.62904529050093
+  y: 11.0
+  z: 299.48242467953065
+  yaw: 12.15234375
+  pitch: -13.580423355102539

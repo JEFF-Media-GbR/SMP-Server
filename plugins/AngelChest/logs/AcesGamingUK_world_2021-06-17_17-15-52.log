@@ -1,0 +1,127 @@
+=== AngelChest spawned ===
+Player: AcesGamingUK
+Player UUID: 2524abf0-7f55-4955-ab3d-a02a78093c45
+Death Time: 2021-06-17 17:15:52
+Death Location: 232 29 11 @ world
+Chest Location: 232 29 11 @ world
+Death Cause: ENTITY_ATTACK
+Player XP: 0.93103456
+Chest XP: 77
+Chest Protection: true
+Chest Duration: 1800 seconds
+
+=== INFORMATION ===
+Please note that some plugins remove certain items on death (soulbound items etc.), while other plugins add certain drops (player heads etc.). That's why this log file show you three different item lists:
+1. The original inventory as it was when the player died. This does not include 3rd party plugin drops, but includes items that would have been removed on death, e.g. curse of vanishing items.
+2. The items the player would have dropped if AngelChest wouldn't be used. This does include 3rd party plugin drops but does not include non-droppable items like curse of vanishing items.
+3. The final AngelChest contents, which is a combination of 1. and 2. and does not include randomly lost items: it includes all custom drops and does not include non-droppable items.
+
+=== 1. Player Inventory ===
+The player had the following items in his inventory at the time of his death:
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=51}}
+> ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=40}}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=227}}
+> ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=19}}
+> ItemStack{STICK x 30}
+> ItemStack{COBBLESTONE x 46}
+> ItemStack{IRON_INGOT x 7}
+> ItemStack{COOKED_MUTTON x 3}
+> ItemStack{BONE x 2}
+> ItemStack{COAL x 64}
+> ItemStack{RAW_IRON x 38}
+> ItemStack{RAW_COPPER x 64}
+> ItemStack{RAW_COPPER x 64}
+> ItemStack{DIAMOND x 1}
+> ItemStack{ROTTEN_FLESH x 2}
+> ItemStack{ARROW x 3}
+> ItemStack{CHICKEN x 2}
+> ItemStack{RAW_COPPER x 21}
+> ItemStack{COAL x 38}
+> ItemStack{RAW_GOLD x 6}
+> ItemStack{COOKED_BEEF x 11}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=15}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=15}}
+> ItemStack{TORCH x 62}
+
+=== 2. Player Drops ===
+The player would have dropped the following items at the time of this death:
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=51}}
+> ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=40}}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=227}}
+> ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=19}}
+> ItemStack{STICK x 30}
+> ItemStack{COBBLESTONE x 46}
+> ItemStack{IRON_INGOT x 7}
+> ItemStack{COOKED_MUTTON x 3}
+> ItemStack{BONE x 2}
+> ItemStack{COAL x 64}
+> ItemStack{RAW_IRON x 38}
+> ItemStack{RAW_COPPER x 64}
+> ItemStack{RAW_COPPER x 64}
+> ItemStack{DIAMOND x 1}
+> ItemStack{ROTTEN_FLESH x 2}
+> ItemStack{ARROW x 3}
+> ItemStack{CHICKEN x 2}
+> ItemStack{RAW_COPPER x 21}
+> ItemStack{COAL x 38}
+> ItemStack{RAW_GOLD x 6}
+> ItemStack{COOKED_BEEF x 11}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=15}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=15}}
+> ItemStack{TORCH x 62}
+
+=== 3. AngelChest inventory ===
+The AngelChest contains the following items:
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=51}}
+> ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=40}}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=227}}
+> ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=19}}
+> ItemStack{STICK x 30}
+> ItemStack{COBBLESTONE x 46}
+> ItemStack{IRON_INGOT x 7}
+> ItemStack{COOKED_MUTTON x 3}
+> ItemStack{BONE x 2}
+> ItemStack{COAL x 64}
+> ItemStack{RAW_IRON x 38}
+> ItemStack{RAW_COPPER x 64}
+> ItemStack{RAW_COPPER x 64}
+> ItemStack{DIAMOND x 1}
+> ItemStack{ROTTEN_FLESH x 2}
+> ItemStack{ARROW x 3}
+> ItemStack{CHICKEN x 2}
+> ItemStack{RAW_COPPER x 21}
+> ItemStack{COAL x 38}
+> ItemStack{RAW_GOLD x 6}
+> ItemStack{COOKED_BEEF x 11}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=15}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=15}}
+> ItemStack{TORCH x 62}
+
+[2021-06-17 17:16:58] Player "AcesGamingUK" paid 0.000000 to open this AngelChest for the first time.
+[2021-06-17 17:17:00] Player "AcesGamingUK" took item: ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=15}}
+[2021-06-17 17:17:00] Player "AcesGamingUK" took item: ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=15}}
+[2021-06-17 17:17:00] Player "AcesGamingUK" took item: ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=51}}
+[2021-06-17 17:17:00] Player "AcesGamingUK" took item: ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=40}}
+[2021-06-17 17:17:00] Player "AcesGamingUK" took item: ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=227}}
+[2021-06-17 17:17:00] Player "AcesGamingUK" took item: ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=19}}
+[2021-06-17 17:17:00] Player "AcesGamingUK" took item: ItemStack{STICK x 30}
+[2021-06-17 17:17:00] Player "AcesGamingUK" took item: ItemStack{COBBLESTONE x 46}
+[2021-06-17 17:17:00] Player "AcesGamingUK" took item: ItemStack{IRON_INGOT x 7}
+[2021-06-17 17:17:00] Player "AcesGamingUK" took item: ItemStack{COOKED_MUTTON x 3}
+[2021-06-17 17:17:00] Player "AcesGamingUK" took item: ItemStack{BONE x 2}
+[2021-06-17 17:17:00] Player "AcesGamingUK" took item: ItemStack{RAW_IRON x 38}
+[2021-06-17 17:17:00] Player "AcesGamingUK" took item: ItemStack{RAW_COPPER x 64}
+[2021-06-17 17:17:00] Player "AcesGamingUK" took item: ItemStack{RAW_COPPER x 64}
+[2021-06-17 17:17:00] Player "AcesGamingUK" took item: ItemStack{DIAMOND x 1}
+[2021-06-17 17:17:00] Player "AcesGamingUK" took item: ItemStack{ROTTEN_FLESH x 2}
+[2021-06-17 17:17:00] Player "AcesGamingUK" took item: ItemStack{ARROW x 3}
+[2021-06-17 17:17:00] Player "AcesGamingUK" took item: ItemStack{CHICKEN x 2}
+[2021-06-17 17:17:00] Player "AcesGamingUK" took item: ItemStack{RAW_COPPER x 21}
+[2021-06-17 17:17:00] Player "AcesGamingUK" took item: ItemStack{COAL x 38}
+[2021-06-17 17:17:00] Player "AcesGamingUK" took item: ItemStack{RAW_GOLD x 6}
+[2021-06-17 17:17:00] Player "AcesGamingUK" took item: ItemStack{COOKED_BEEF x 11}
+[2021-06-17 17:17:00] Player "AcesGamingUK" took item: ItemStack{TORCH x 62}
+
+[2021-06-17 17:17:00] Player "AcesGamingUK" took the last item. Removing AngelChest!
+
+=== AngelChest removed ===

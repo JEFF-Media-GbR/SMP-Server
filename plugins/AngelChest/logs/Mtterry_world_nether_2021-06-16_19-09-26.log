@@ -1,0 +1,104 @@
+=== AngelChest spawned ===
+Player: Mtterry
+Player UUID: 06d5b100-a7c0-4dea-b08b-da9e5bbd3aed
+Death Time: 2021-06-16 19:09:26
+Death Location: 48 60 -64 @ world_nether
+Chest Location: 48 60 -64 @ world_nether
+Death Cause: PROJECTILE
+Player XP: 0.028571626
+Chest XP: 98
+Chest Protection: true
+Chest Duration: 1800 seconds
+
+=== INFORMATION ===
+Please note that some plugins remove certain items on death (soulbound items etc.), while other plugins add certain drops (player heads etc.). That's why this log file show you three different item lists:
+1. The original inventory as it was when the player died. This does not include 3rd party plugin drops, but includes items that would have been removed on death, e.g. curse of vanishing items.
+2. The items the player would have dropped if AngelChest wouldn't be used. This does include 3rd party plugin drops but does not include non-droppable items like curse of vanishing items.
+3. The final AngelChest contents, which is a combination of 1. and 2. and does not include randomly lost items: it includes all custom drops and does not include non-droppable items.
+
+=== 1. Player Inventory ===
+The player had the following items in his inventory at the time of his death:
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=162}}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=90}}
+> ItemStack{BREAD x 7}
+> ItemStack{COBBLESTONE x 28}
+> ItemStack{OAK_PLANKS x 64}
+> ItemStack{BLAZE_POWDER x 24}
+> ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=95}}
+> ItemStack{CARROT x 56}
+> ItemStack{OAK_PLANKS x 64}
+> ItemStack{SALMON x 20}
+> ItemStack{OAK_PLANKS x 33}
+> ItemStack{ARROW x 1}
+> ItemStack{NETHER_BRICKS x 5}
+> ItemStack{NETHERRACK x 1}
+> ItemStack{BONE x 1}
+> ItemStack{BOW x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=246}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=21}}
+> ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=237, blockMaterial=SHIELD}}
+
+=== 2. Player Drops ===
+The player would have dropped the following items at the time of this death:
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=162}}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=90}}
+> ItemStack{BREAD x 7}
+> ItemStack{COBBLESTONE x 28}
+> ItemStack{OAK_PLANKS x 64}
+> ItemStack{BLAZE_POWDER x 24}
+> ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=95}}
+> ItemStack{CARROT x 56}
+> ItemStack{OAK_PLANKS x 64}
+> ItemStack{SALMON x 20}
+> ItemStack{OAK_PLANKS x 33}
+> ItemStack{ARROW x 1}
+> ItemStack{NETHER_BRICKS x 5}
+> ItemStack{NETHERRACK x 1}
+> ItemStack{BONE x 1}
+> ItemStack{BOW x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=246}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=21}}
+> ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=237, blockMaterial=SHIELD}}
+
+=== 3. AngelChest inventory ===
+The AngelChest contains the following items:
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=162}}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=90}}
+> ItemStack{BREAD x 7}
+> ItemStack{COBBLESTONE x 28}
+> ItemStack{OAK_PLANKS x 64}
+> ItemStack{BLAZE_POWDER x 24}
+> ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=95}}
+> ItemStack{CARROT x 56}
+> ItemStack{OAK_PLANKS x 64}
+> ItemStack{SALMON x 20}
+> ItemStack{OAK_PLANKS x 33}
+> ItemStack{ARROW x 1}
+> ItemStack{NETHER_BRICKS x 5}
+> ItemStack{NETHERRACK x 1}
+> ItemStack{BONE x 1}
+> ItemStack{BOW x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=246}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=21}}
+> ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=237, blockMaterial=SHIELD}}
+
+[2021-06-16 19:11:53] Player "Mtterry" paid 0.000000 to open this AngelChest for the first time.
+[2021-06-16 19:11:54] Player "Mtterry" took item: ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=21}}
+[2021-06-16 19:11:54] Player "Mtterry" took item: ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=237, blockMaterial=SHIELD}}
+[2021-06-16 19:11:55] Player "Mtterry" took item: ItemStack{BOW x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=246}}
+[2021-06-16 19:11:55] Player "Mtterry" took item: ItemStack{BONE x 1}
+[2021-06-16 19:11:55] Player "Mtterry" took item: ItemStack{NETHERRACK x 1}
+[2021-06-16 19:11:55] Player "Mtterry" took item: ItemStack{NETHER_BRICKS x 5}
+[2021-06-16 19:11:56] Player "Mtterry" took item: ItemStack{ARROW x 1}
+[2021-06-16 19:11:56] Player "Mtterry" took item: ItemStack{OAK_PLANKS x 33}
+[2021-06-16 19:11:56] Player "Mtterry" took item: ItemStack{SALMON x 20}
+[2021-06-16 19:11:57] Player "Mtterry" took item: ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=162}}
+[2021-06-16 19:11:57] Player "Mtterry" took item: ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=90}}
+[2021-06-16 19:11:57] Player "Mtterry" took item: ItemStack{BREAD x 7}
+[2021-06-16 19:11:57] Player "Mtterry" took item: ItemStack{COBBLESTONE x 28}
+[2021-06-16 19:11:58] Player "Mtterry" took item: ItemStack{OAK_PLANKS x 64}
+[2021-06-16 19:11:58] Player "Mtterry" took item: ItemStack{BLAZE_POWDER x 24}
+[2021-06-16 19:11:58] Player "Mtterry" took item: ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=95}}
+[2021-06-16 19:11:58] Player "Mtterry" took item: ItemStack{CARROT x 56}
+[2021-06-16 19:11:58] Player "Mtterry" took item: ItemStack{OAK_PLANKS x 64}
+
+[2021-06-16 19:11:58] Player "Mtterry" took the last item. Removing AngelChest!
+
+=== AngelChest removed ===

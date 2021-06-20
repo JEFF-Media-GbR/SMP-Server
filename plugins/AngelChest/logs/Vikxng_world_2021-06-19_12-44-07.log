@@ -1,0 +1,36 @@
+=== AngelChest spawned ===
+Player: Vikxng
+Player UUID: b0dd73b1-d5db-4b6a-bd9c-320eb69b4954
+Death Time: 2021-06-19 12:44:07
+Death Location: 509 9 -288 @ world
+Chest Location: 511 13 -282 @ world
+Death Cause: LAVA
+Player XP: 0.0
+Chest XP: 0
+Chest Protection: true
+Chest Duration: 1800 seconds
+
+=== INFORMATION ===
+Please note that some plugins remove certain items on death (soulbound items etc.), while other plugins add certain drops (player heads etc.). That's why this log file show you three different item lists:
+1. The original inventory as it was when the player died. This does not include 3rd party plugin drops, but includes items that would have been removed on death, e.g. curse of vanishing items.
+2. The items the player would have dropped if AngelChest wouldn't be used. This does include 3rd party plugin drops but does not include non-droppable items like curse of vanishing items.
+3. The final AngelChest contents, which is a combination of 1. and 2. and does not include randomly lost items: it includes all custom drops and does not include non-droppable items.
+
+=== 1. Player Inventory ===
+The player had the following items in his inventory at the time of his death:
+> ItemStack{TORCH x 1}
+
+=== 2. Player Drops ===
+The player would have dropped the following items at the time of this death:
+> ItemStack{TORCH x 1}
+
+=== 3. AngelChest inventory ===
+The AngelChest contains the following items:
+> ItemStack{TORCH x 1}
+
+[2021-06-19 12:46:36] Player "Vikxng" paid 0.000000 to open this AngelChest for the first time.
+[2021-06-19 12:46:37] Player "Vikxng" took item: ItemStack{TORCH x 1}
+
+[2021-06-19 12:46:37] Player "Vikxng" took the last item. Removing AngelChest!
+
+=== AngelChest removed ===

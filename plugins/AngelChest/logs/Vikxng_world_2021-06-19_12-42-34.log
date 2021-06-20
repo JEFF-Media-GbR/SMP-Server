@@ -1,0 +1,45 @@
+=== AngelChest spawned ===
+Player: Vikxng
+Player UUID: b0dd73b1-d5db-4b6a-bd9c-320eb69b4954
+Death Time: 2021-06-19 12:42:34
+Death Location: 509 12 -290 @ world
+Chest Location: 509 12 -290 @ world
+Death Cause: ENTITY_ATTACK
+Player XP: 0.27272722
+Chest XP: 14
+Chest Protection: true
+Chest Duration: 1800 seconds
+
+=== INFORMATION ===
+Please note that some plugins remove certain items on death (soulbound items etc.), while other plugins add certain drops (player heads etc.). That's why this log file show you three different item lists:
+1. The original inventory as it was when the player died. This does not include 3rd party plugin drops, but includes items that would have been removed on death, e.g. curse of vanishing items.
+2. The items the player would have dropped if AngelChest wouldn't be used. This does include 3rd party plugin drops but does not include non-droppable items like curse of vanishing items.
+3. The final AngelChest contents, which is a combination of 1. and 2. and does not include randomly lost items: it includes all custom drops and does not include non-droppable items.
+
+=== 1. Player Inventory ===
+The player had the following items in his inventory at the time of his death:
+> ItemStack{COBBLED_DEEPSLATE x 5}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=107}}
+> ItemStack{BAKED_POTATO x 55}
+
+=== 2. Player Drops ===
+The player would have dropped the following items at the time of this death:
+> ItemStack{COBBLED_DEEPSLATE x 5}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=107}}
+> ItemStack{BAKED_POTATO x 55}
+
+=== 3. AngelChest inventory ===
+The AngelChest contains the following items:
+> ItemStack{COBBLED_DEEPSLATE x 5}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=107}}
+> ItemStack{BAKED_POTATO x 55}
+
+[2021-06-19 12:45:07] Player "Vikxng" paid 0.000000 to open this AngelChest for the first time.
+[2021-06-19 12:45:08] Player "Vikxng" took item: ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=107}}
+[2021-06-19 12:45:09] Player "Vikxng" took item: ItemStack{COBBLED_DEEPSLATE x 5}
+[2021-06-19 12:45:10] Player "Vikxng" took item: ItemStack{BAKED_POTATO x 55}
+[2021-06-19 12:45:11] Player "Vikxng" took XP: 14
+
+[2021-06-19 12:45:11] Player "Vikxng" took the last item. Removing AngelChest!
+
+=== AngelChest removed ===

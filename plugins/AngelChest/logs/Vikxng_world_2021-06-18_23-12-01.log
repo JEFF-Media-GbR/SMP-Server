@@ -1,0 +1,149 @@
+=== AngelChest spawned ===
+Player: Vikxng
+Player UUID: b0dd73b1-d5db-4b6a-bd9c-320eb69b4954
+Death Time: 2021-06-18 23:12:01
+Death Location: 507 15 -292 @ world
+Chest Location: 507 15 -292 @ world
+Death Cause: ENTITY_EXPLOSION
+Player XP: 0.30769244
+Chest XP: 21
+Chest Protection: true
+Chest Duration: 1800 seconds
+
+=== INFORMATION ===
+Please note that some plugins remove certain items on death (soulbound items etc.), while other plugins add certain drops (player heads etc.). That's why this log file show you three different item lists:
+1. The original inventory as it was when the player died. This does not include 3rd party plugin drops, but includes items that would have been removed on death, e.g. curse of vanishing items.
+2. The items the player would have dropped if AngelChest wouldn't be used. This does include 3rd party plugin drops but does not include non-droppable items like curse of vanishing items.
+3. The final AngelChest contents, which is a combination of 1. and 2. and does not include randomly lost items: it includes all custom drops and does not include non-droppable items.
+
+=== 1. Player Inventory ===
+The player had the following items in his inventory at the time of his death:
+> ItemStack{LEAD x 2}
+> ItemStack{DIRT x 61}
+> ItemStack{WOODEN_AXE x 1}
+> ItemStack{WHEAT x 3}
+> ItemStack{POTATO x 57}
+> ItemStack{WOODEN_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=33}}
+> ItemStack{LEVER x 5}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{GRAVEL x 14}
+> ItemStack{ANDESITE x 10}
+> ItemStack{DIRT x 37}
+> ItemStack{RAW_IRON x 3}
+> ItemStack{DIAMOND x 1}
+> ItemStack{ARROW x 2}
+> ItemStack{BONE x 2}
+> ItemStack{POISONOUS_POTATO x 2}
+> ItemStack{POTATO x 25}
+> ItemStack{WHITE_WOOL x 3}
+> ItemStack{STONE x 5, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name={"extra":[{"text":"Tombstone"}],"text":""}}}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{SMOOTH_STONE x 5}
+> ItemStack{ROTTEN_FLESH x 2}
+> ItemStack{STICK x 19}
+> ItemStack{COBBLED_DEEPSLATE x 54}
+> ItemStack{COBBLESTONE x 43}
+> ItemStack{WHEAT_SEEDS x 10}
+> ItemStack{COAL x 24}
+> ItemStack{STONE_HOE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=2}}
+> ItemStack{SPRUCE_PLANKS x 5}
+
+=== 2. Player Drops ===
+The player would have dropped the following items at the time of this death:
+> ItemStack{LEAD x 2}
+> ItemStack{DIRT x 61}
+> ItemStack{WOODEN_AXE x 1}
+> ItemStack{WHEAT x 3}
+> ItemStack{POTATO x 57}
+> ItemStack{WOODEN_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=33}}
+> ItemStack{LEVER x 5}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{GRAVEL x 14}
+> ItemStack{ANDESITE x 10}
+> ItemStack{DIRT x 37}
+> ItemStack{RAW_IRON x 3}
+> ItemStack{DIAMOND x 1}
+> ItemStack{ARROW x 2}
+> ItemStack{BONE x 2}
+> ItemStack{POISONOUS_POTATO x 2}
+> ItemStack{POTATO x 25}
+> ItemStack{WHITE_WOOL x 3}
+> ItemStack{STONE x 5, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name={"extra":[{"text":"Tombstone"}],"text":""}}}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{SMOOTH_STONE x 5}
+> ItemStack{ROTTEN_FLESH x 2}
+> ItemStack{STICK x 19}
+> ItemStack{COBBLED_DEEPSLATE x 54}
+> ItemStack{COBBLESTONE x 43}
+> ItemStack{WHEAT_SEEDS x 10}
+> ItemStack{COAL x 24}
+> ItemStack{STONE_HOE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=2}}
+> ItemStack{SPRUCE_PLANKS x 5}
+
+=== 3. AngelChest inventory ===
+The AngelChest contains the following items:
+> ItemStack{LEAD x 2}
+> ItemStack{DIRT x 61}
+> ItemStack{WOODEN_AXE x 1}
+> ItemStack{WHEAT x 3}
+> ItemStack{POTATO x 57}
+> ItemStack{WOODEN_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=33}}
+> ItemStack{LEVER x 5}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{GRAVEL x 14}
+> ItemStack{ANDESITE x 10}
+> ItemStack{DIRT x 37}
+> ItemStack{RAW_IRON x 3}
+> ItemStack{DIAMOND x 1}
+> ItemStack{ARROW x 2}
+> ItemStack{BONE x 2}
+> ItemStack{POISONOUS_POTATO x 2}
+> ItemStack{POTATO x 25}
+> ItemStack{WHITE_WOOL x 3}
+> ItemStack{STONE x 5, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name={"extra":[{"text":"Tombstone"}],"text":""}}}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{SMOOTH_STONE x 5}
+> ItemStack{ROTTEN_FLESH x 2}
+> ItemStack{STICK x 19}
+> ItemStack{COBBLED_DEEPSLATE x 54}
+> ItemStack{COBBLESTONE x 43}
+> ItemStack{WHEAT_SEEDS x 10}
+> ItemStack{COAL x 24}
+> ItemStack{STONE_HOE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=2}}
+> ItemStack{SPRUCE_PLANKS x 5}
+
+[2021-06-18 23:16:55] Player "Vikxng" paid 0.000000 to open this AngelChest for the first time.
+[2021-06-18 23:16:56] Player "Vikxng" took item: ItemStack{COBBLESTONE x 64}
+[2021-06-18 23:16:57] Player "Vikxng" took XP: 21
+[2021-06-18 23:16:58] Player "Vikxng" took item: ItemStack{GRAVEL x 14}
+[2021-06-18 23:16:58] Player "Vikxng" took item: ItemStack{ANDESITE x 10}
+[2021-06-18 23:16:58] Player "Vikxng" took item: ItemStack{DIRT x 37}
+[2021-06-18 23:16:59] Player "Vikxng" took item: ItemStack{RAW_IRON x 3}
+[2021-06-18 23:16:59] Player "Vikxng" took item: ItemStack{DIAMOND x 1}
+[2021-06-18 23:16:59] Player "Vikxng" took item: ItemStack{ARROW x 2}
+[2021-06-18 23:17:00] Player "Vikxng" took item: ItemStack{BONE x 2}
+[2021-06-18 23:17:00] Player "Vikxng" took item: ItemStack{POISONOUS_POTATO x 2}
+[2021-06-18 23:17:00] Player "Vikxng" took item: ItemStack{COBBLESTONE x 43}
+[2021-06-18 23:17:00] Player "Vikxng" took item: ItemStack{COBBLED_DEEPSLATE x 54}
+[2021-06-18 23:17:01] Player "Vikxng" took item: ItemStack{STICK x 19}
+[2021-06-18 23:17:01] Player "Vikxng" took item: ItemStack{SPRUCE_PLANKS x 5}
+[2021-06-18 23:17:01] Player "Vikxng" took item: ItemStack{STONE_HOE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=2}}
+[2021-06-18 23:17:02] Player "Vikxng" took item: ItemStack{ROTTEN_FLESH x 2}
+[2021-06-18 23:17:02] Player "Vikxng" took item: ItemStack{SMOOTH_STONE x 5}
+[2021-06-18 23:17:02] Player "Vikxng" took item: ItemStack{STONE x 5, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name={"extra":[{"text":"Tombstone"}],"text":""}}}
+[2021-06-18 23:17:03] Player "Vikxng" took item: ItemStack{WHITE_WOOL x 3}
+[2021-06-18 23:17:03] Player "Vikxng" took item: ItemStack{POTATO x 25}
+[2021-06-18 23:17:04] Player "Vikxng" took item: ItemStack{WHEAT_SEEDS x 10}
+[2021-06-18 23:17:04] Player "Vikxng" took item: ItemStack{COAL x 24}
+[2021-06-18 23:17:05] Player "Vikxng" took item: ItemStack{STONE_PICKAXE x 1}
+[2021-06-18 23:17:07] Player "Vikxng" took item: ItemStack{LEVER x 5}
+[2021-06-18 23:17:08] Player "Vikxng" took item: ItemStack{WOODEN_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=33}}
+[2021-06-18 23:17:09] Player "Vikxng" took item: ItemStack{POTATO x 57}
+[2021-06-18 23:17:09] Player "Vikxng" took item: ItemStack{WOODEN_AXE x 1}
+[2021-06-18 23:17:10] Player "Vikxng" took item: ItemStack{DIRT x 61}
+[2021-06-18 23:17:10] Player "Vikxng" took item: ItemStack{LEAD x 2}
+[2021-06-18 23:17:11] Player "Vikxng" took item: ItemStack{WHEAT x 3}
+
+[2021-06-18 23:17:11] Player "Vikxng" took the last item. Removing AngelChest!
+
+=== AngelChest removed ===

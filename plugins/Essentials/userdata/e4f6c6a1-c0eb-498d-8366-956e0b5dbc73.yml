@@ -1,0 +1,36 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.147.141.179
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1623751714557
+  login: 1623751706054
+money: '0'
+last-account-name: 1erdbeerkuchen
+lastlocation:
+  world: dd708c59-a9a2-4022-87a4-fab30985f6b3
+  x: 233.5
+  y: 78.0
+  z: -6.5
+  yaw: 3.0444610118865967
+  pitch: 0.0
+logoutlocation:
+  world: dd708c59-a9a2-4022-87a4-fab30985f6b3
+  x: 248.37963922520672
+  y: 78.0
+  z: -0.9370880025475932
+  yaw: -94.50006103515625
+  pitch: 10.949996948242188

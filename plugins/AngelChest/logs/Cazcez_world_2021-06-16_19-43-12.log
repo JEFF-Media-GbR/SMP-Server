@@ -1,0 +1,108 @@
+=== AngelChest spawned ===
+Player: Cazcez
+Player UUID: dee0c76f-0ecb-429b-bc5c-db624d907910
+Death Time: 2021-06-16 19:43:12
+Death Location: 504 65 35 @ world
+Chest Location: 504 65 35 @ world
+Death Cause: ENTITY_EXPLOSION
+Player XP: 0.95238084
+Chest XP: 49
+Chest Protection: true
+Chest Duration: 1800 seconds
+
+=== INFORMATION ===
+Please note that some plugins remove certain items on death (soulbound items etc.), while other plugins add certain drops (player heads etc.). That's why this log file show you three different item lists:
+1. The original inventory as it was when the player died. This does not include 3rd party plugin drops, but includes items that would have been removed on death, e.g. curse of vanishing items.
+2. The items the player would have dropped if AngelChest wouldn't be used. This does include 3rd party plugin drops but does not include non-droppable items like curse of vanishing items.
+3. The final AngelChest contents, which is a combination of 1. and 2. and does not include randomly lost items: it includes all custom drops and does not include non-droppable items.
+
+=== 1. Player Inventory ===
+The player had the following items in his inventory at the time of his death:
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=47}}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=144}}
+> ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=268}}
+> ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=90}}
+> ItemStack{BONE x 2}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{SPRUCE_LOG x 15}
+> ItemStack{STONE_HOE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=61}}
+> ItemStack{ROTTEN_FLESH x 3}
+> ItemStack{IRON_INGOT x 37}
+> ItemStack{REDSTONE x 8}
+> ItemStack{COBBLESTONE x 25}
+> ItemStack{STICK x 2}
+> ItemStack{TORCH x 54}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=20}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=20}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=20}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=20}}
+
+=== 2. Player Drops ===
+The player would have dropped the following items at the time of this death:
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=47}}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=144}}
+> ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=268}}
+> ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=90}}
+> ItemStack{BONE x 2}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{SPRUCE_LOG x 15}
+> ItemStack{STONE_HOE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=61}}
+> ItemStack{ROTTEN_FLESH x 3}
+> ItemStack{IRON_INGOT x 37}
+> ItemStack{REDSTONE x 8}
+> ItemStack{COBBLESTONE x 25}
+> ItemStack{STICK x 2}
+> ItemStack{TORCH x 54}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=20}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=20}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=20}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=20}}
+
+=== 3. AngelChest inventory ===
+The AngelChest contains the following items:
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=47}}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=144}}
+> ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=268}}
+> ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=90}}
+> ItemStack{BONE x 2}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{SPRUCE_LOG x 15}
+> ItemStack{STONE_HOE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=61}}
+> ItemStack{ROTTEN_FLESH x 3}
+> ItemStack{IRON_INGOT x 37}
+> ItemStack{REDSTONE x 8}
+> ItemStack{COBBLESTONE x 25}
+> ItemStack{STICK x 2}
+> ItemStack{TORCH x 54}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=20}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=20}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=20}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=20}}
+
+[2021-06-16 19:44:44] Player "Cazcez" paid 0.000000 to open this AngelChest for the first time.
+[2021-06-16 19:46:01] Player "Cazcez" took item: ItemStack{BONE x 2}
+[2021-06-16 19:46:02] Player "Cazcez" took item: ItemStack{COBBLESTONE x 64}
+[2021-06-16 19:46:02] Player "Cazcez" took item: ItemStack{COBBLESTONE x 64}
+[2021-06-16 19:46:02] Player "Cazcez" took item: ItemStack{COBBLESTONE x 25}
+[2021-06-16 19:46:02] Player "Cazcez" took item: ItemStack{SPRUCE_LOG x 15}
+[2021-06-16 19:46:03] Player "Cazcez" took item: ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=90}}
+[2021-06-16 19:46:03] Player "Cazcez" took item: ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=268}}
+[2021-06-16 19:46:03] Player "Cazcez" took item: ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=144}}
+[2021-06-16 19:46:04] Player "Cazcez" took item: ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=47}}
+[2021-06-16 19:46:05] Player "Cazcez" took item: ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=20}}
+[2021-06-16 19:46:05] Player "Cazcez" took item: ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=20}}
+[2021-06-16 19:46:06] Player "Cazcez" took XP: 49
+[2021-06-16 19:46:06] Player "Cazcez" took XP: 0
+[2021-06-16 19:46:13] Player "Cazcez" took item: ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=20}}
+[2021-06-16 19:46:13] Player "Cazcez" took item: ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=20}}
+[2021-06-16 19:46:13] Player "Cazcez" took item: ItemStack{IRON_INGOT x 37}
+[2021-06-16 19:46:13] Player "Cazcez" took item: ItemStack{REDSTONE x 8}
+[2021-06-16 19:46:13] Player "Cazcez" took item: ItemStack{STICK x 2}
+[2021-06-16 19:46:13] Player "Cazcez" took item: ItemStack{TORCH x 54}
+
+[2021-06-16 19:46:13] Player "Cazcez" took the last item. Removing AngelChest!
+
+=== AngelChest removed ===

@@ -1,0 +1,171 @@
+=== AngelChest spawned ===
+Player: Mtterry
+Player UUID: 06d5b100-a7c0-4dea-b08b-da9e5bbd3aed
+Death Time: 2021-06-16 23:14:17
+Death Location: -10 62 32 @ world_the_end
+Chest Location: -10 62 32 @ world_the_end
+Death Cause: FALL
+Player XP: 0.076923005
+Chest XP: 21
+Chest Protection: true
+Chest Duration: 1800 seconds
+
+=== INFORMATION ===
+Please note that some plugins remove certain items on death (soulbound items etc.), while other plugins add certain drops (player heads etc.). That's why this log file show you three different item lists:
+1. The original inventory as it was when the player died. This does not include 3rd party plugin drops, but includes items that would have been removed on death, e.g. curse of vanishing items.
+2. The items the player would have dropped if AngelChest wouldn't be used. This does include 3rd party plugin drops but does not include non-droppable items like curse of vanishing items.
+3. The final AngelChest contents, which is a combination of 1. and 2. and does not include randomly lost items: it includes all custom drops and does not include non-droppable items.
+
+=== 1. Player Inventory ===
+The player had the following items in his inventory at the time of his death:
+> ItemStack{DIAMOND_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=184}}
+> ItemStack{WATER_BUCKET x 1}
+> ItemStack{CROSSBOW x 1, CROSSBOW_META:{meta-type=CROSSBOW, Damage=43, charged=true, charged-projectiles=[ItemStack{SPECTRAL_ARROW x 1}]}}
+> ItemStack{COOKED_CHICKEN x 3}
+> ItemStack{STICK x 2}
+> ItemStack{BREAD x 3}
+> ItemStack{COOKED_BEEF x 1}
+> ItemStack{IRON_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=83}}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=86}}
+> ItemStack{COBBLESTONE x 56}
+> ItemStack{COOKED_MUTTON x 1}
+> ItemStack{SPECTRAL_ARROW x 41}
+> ItemStack{IRON_DOOR x 1}
+> ItemStack{BOOK x 64}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=248}}
+> ItemStack{CRAFTING_TABLE x 1}
+> ItemStack{BOOK x 64}
+> ItemStack{IRON_BARS x 19}
+> ItemStack{BOOK x 51}
+> ItemStack{COOKED_PORKCHOP x 3}
+> ItemStack{OAK_SLAB x 3}
+> ItemStack{LAPIS_LAZULI x 38}
+> ItemStack{PAPER x 35}
+> ItemStack{APPLE x 3}
+> ItemStack{SAND x 3}
+> ItemStack{ENDER_PEARL x 1}
+> ItemStack{GOLD_INGOT x 1}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=77}}
+> ItemStack{END_STONE x 1}
+> ItemStack{EMERALD x 3}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={SOUL_SPEED=3}, Damage=85}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=13}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=114}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=92}}
+> ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=19, blockMaterial=SHIELD}}
+
+=== 2. Player Drops ===
+The player would have dropped the following items at the time of this death:
+> ItemStack{DIAMOND_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=184}}
+> ItemStack{WATER_BUCKET x 1}
+> ItemStack{CROSSBOW x 1, CROSSBOW_META:{meta-type=CROSSBOW, Damage=43, charged=true, charged-projectiles=[ItemStack{SPECTRAL_ARROW x 1}]}}
+> ItemStack{COOKED_CHICKEN x 3}
+> ItemStack{STICK x 2}
+> ItemStack{BREAD x 3}
+> ItemStack{COOKED_BEEF x 1}
+> ItemStack{IRON_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=83}}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=86}}
+> ItemStack{COBBLESTONE x 56}
+> ItemStack{COOKED_MUTTON x 1}
+> ItemStack{SPECTRAL_ARROW x 41}
+> ItemStack{IRON_DOOR x 1}
+> ItemStack{BOOK x 64}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=248}}
+> ItemStack{CRAFTING_TABLE x 1}
+> ItemStack{BOOK x 64}
+> ItemStack{IRON_BARS x 19}
+> ItemStack{BOOK x 51}
+> ItemStack{COOKED_PORKCHOP x 3}
+> ItemStack{OAK_SLAB x 3}
+> ItemStack{LAPIS_LAZULI x 38}
+> ItemStack{PAPER x 35}
+> ItemStack{APPLE x 3}
+> ItemStack{SAND x 3}
+> ItemStack{ENDER_PEARL x 1}
+> ItemStack{GOLD_INGOT x 1}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=77}}
+> ItemStack{END_STONE x 1}
+> ItemStack{EMERALD x 3}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={SOUL_SPEED=3}, Damage=85}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=13}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=114}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=92}}
+> ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=19, blockMaterial=SHIELD}}
+
+=== 3. AngelChest inventory ===
+The AngelChest contains the following items:
+> ItemStack{DIAMOND_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=184}}
+> ItemStack{WATER_BUCKET x 1}
+> ItemStack{CROSSBOW x 1, CROSSBOW_META:{meta-type=CROSSBOW, Damage=43, charged=true, charged-projectiles=[ItemStack{SPECTRAL_ARROW x 1}]}}
+> ItemStack{COOKED_CHICKEN x 3}
+> ItemStack{STICK x 2}
+> ItemStack{BREAD x 3}
+> ItemStack{COOKED_BEEF x 1}
+> ItemStack{IRON_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=83}}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=86}}
+> ItemStack{COBBLESTONE x 56}
+> ItemStack{COOKED_MUTTON x 1}
+> ItemStack{SPECTRAL_ARROW x 41}
+> ItemStack{IRON_DOOR x 1}
+> ItemStack{BOOK x 64}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=248}}
+> ItemStack{CRAFTING_TABLE x 1}
+> ItemStack{BOOK x 64}
+> ItemStack{IRON_BARS x 19}
+> ItemStack{BOOK x 51}
+> ItemStack{COOKED_PORKCHOP x 3}
+> ItemStack{OAK_SLAB x 3}
+> ItemStack{LAPIS_LAZULI x 38}
+> ItemStack{PAPER x 35}
+> ItemStack{APPLE x 3}
+> ItemStack{SAND x 3}
+> ItemStack{ENDER_PEARL x 1}
+> ItemStack{GOLD_INGOT x 1}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=77}}
+> ItemStack{END_STONE x 1}
+> ItemStack{EMERALD x 3}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={SOUL_SPEED=3}, Damage=85}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=13}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=114}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=92}}
+> ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=19, blockMaterial=SHIELD}}
+
+[2021-06-16 23:14:41] Player "Mtterry" paid 0.000000 to open this AngelChest for the first time.
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={SOUL_SPEED=3}, Damage=85}}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=13}}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=114}}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=92}}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{WATER_BUCKET x 1}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{CROSSBOW x 1, CROSSBOW_META:{meta-type=CROSSBOW, Damage=43, charged=true, charged-projectiles=[ItemStack{SPECTRAL_ARROW x 1}]}}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{COOKED_CHICKEN x 3}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{STICK x 2}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{BREAD x 3}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{COOKED_BEEF x 1}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{IRON_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=83}}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=86}}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{COBBLESTONE x 56}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{COOKED_MUTTON x 1}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{SPECTRAL_ARROW x 41}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{IRON_DOOR x 1}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{BOOK x 64}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=248}}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{CRAFTING_TABLE x 1}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{BOOK x 64}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{IRON_BARS x 19}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{BOOK x 51}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{COOKED_PORKCHOP x 3}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{OAK_SLAB x 3}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{LAPIS_LAZULI x 38}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{PAPER x 35}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{APPLE x 3}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{SAND x 3}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{ENDER_PEARL x 1}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{GOLD_INGOT x 1}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=77}}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{END_STONE x 1}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{EMERALD x 3}
+[2021-06-16 23:14:41] Player "Mtterry" took item: ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=19, blockMaterial=SHIELD}}
+
+[2021-06-16 23:14:41] Player "Mtterry" took the last item. Removing AngelChest!
+
+=== AngelChest removed ===

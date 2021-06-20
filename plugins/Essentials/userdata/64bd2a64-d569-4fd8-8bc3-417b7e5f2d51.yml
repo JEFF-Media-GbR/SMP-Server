@@ -1,0 +1,36 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 69.152.169.239
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1623882857843
+  login: 1623882209408
+money: '0'
+last-account-name: Wolfy8198
+lastlocation:
+  world: dd708c59-a9a2-4022-87a4-fab30985f6b3
+  x: 240.5
+  y: 73.0
+  z: 4.5
+  yaw: 0.2855468988418579
+  pitch: 0.0
+logoutlocation:
+  world: dd708c59-a9a2-4022-87a4-fab30985f6b3
+  x: 496.64303731916476
+  y: 31.6875
+  z: -293.52733676511326
+  yaw: -39.760528564453125
+  pitch: 82.43013763427734

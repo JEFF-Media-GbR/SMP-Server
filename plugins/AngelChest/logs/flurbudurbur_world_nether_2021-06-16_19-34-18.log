@@ -1,0 +1,196 @@
+=== AngelChest spawned ===
+Player: flurbudurbur
+Player UUID: 465b3f5f-3a10-4ab5-94b1-6ce7be8a8d70
+Death Time: 2021-06-16 19:34:18
+Death Location: 34 9 58 @ world_nether
+Chest Location: 34 9 58 @ world_nether
+Death Cause: FIRE_TICK
+Player XP: 0.79411757
+Chest XP: 100
+Chest Protection: true
+Chest Duration: 1800 seconds
+
+=== INFORMATION ===
+Please note that some plugins remove certain items on death (soulbound items etc.), while other plugins add certain drops (player heads etc.). That's why this log file show you three different item lists:
+1. The original inventory as it was when the player died. This does not include 3rd party plugin drops, but includes items that would have been removed on death, e.g. curse of vanishing items.
+2. The items the player would have dropped if AngelChest wouldn't be used. This does include 3rd party plugin drops but does not include non-droppable items like curse of vanishing items.
+3. The final AngelChest contents, which is a combination of 1. and 2. and does not include randomly lost items: it includes all custom drops and does not include non-droppable items.
+
+=== 1. Player Inventory ===
+The player had the following items in his inventory at the time of his death:
+> ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=121, blockMaterial=SHIELD}}
+> ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=549}}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=226}}
+> ItemStack{NETHERRACK x 64}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WATER_BUCKET x 1}
+> ItemStack{COOKED_PORKCHOP x 7}
+> ItemStack{COOKED_CHICKEN x 5}
+> ItemStack{IRON_SWORD x 1}
+> ItemStack{IRON_AXE x 1}
+> ItemStack{FLINT_AND_STEEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=2}}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{CRAFTING_TABLE x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{OAK_LOG x 21}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{NETHERRACK x 64}
+> ItemStack{COBBLESTONE x 3}
+> ItemStack{NETHERRACK x 64}
+> ItemStack{GRAVEL x 12}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=236}}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=79}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=79}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=84}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=79}}
+> ItemStack{TORCH x 10}
+
+=== 2. Player Drops ===
+The player would have dropped the following items at the time of this death:
+> ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=121, blockMaterial=SHIELD}}
+> ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=549}}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=226}}
+> ItemStack{NETHERRACK x 64}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WATER_BUCKET x 1}
+> ItemStack{COOKED_PORKCHOP x 7}
+> ItemStack{COOKED_CHICKEN x 5}
+> ItemStack{IRON_SWORD x 1}
+> ItemStack{IRON_AXE x 1}
+> ItemStack{FLINT_AND_STEEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=2}}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{CRAFTING_TABLE x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{OAK_LOG x 21}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{NETHERRACK x 64}
+> ItemStack{COBBLESTONE x 3}
+> ItemStack{NETHERRACK x 64}
+> ItemStack{GRAVEL x 12}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=236}}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=79}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=79}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=84}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=79}}
+> ItemStack{TORCH x 10}
+
+=== 3. AngelChest inventory ===
+The AngelChest contains the following items:
+> ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=121, blockMaterial=SHIELD}}
+> ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=549}}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=226}}
+> ItemStack{NETHERRACK x 64}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WATER_BUCKET x 1}
+> ItemStack{COOKED_PORKCHOP x 7}
+> ItemStack{COOKED_CHICKEN x 5}
+> ItemStack{IRON_SWORD x 1}
+> ItemStack{IRON_AXE x 1}
+> ItemStack{FLINT_AND_STEEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=2}}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{CRAFTING_TABLE x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{OAK_LOG x 21}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{NETHERRACK x 64}
+> ItemStack{COBBLESTONE x 3}
+> ItemStack{NETHERRACK x 64}
+> ItemStack{GRAVEL x 12}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=236}}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=79}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=79}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=84}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=79}}
+> ItemStack{TORCH x 10}
+
+[2021-06-16 19:35:22] Player "flurbudurbur" paid 0.000000 to open this AngelChest for the first time.
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=79}}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=79}}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=84}}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=79}}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=121, blockMaterial=SHIELD}}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=549}}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=226}}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{NETHERRACK x 64}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{COBBLESTONE x 64}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{WHITE_BED x 1}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{WATER_BUCKET x 1}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{COOKED_PORKCHOP x 7}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{COOKED_CHICKEN x 5}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{IRON_SWORD x 1}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{IRON_AXE x 1}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{FLINT_AND_STEEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=2}}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{WHITE_BED x 1}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{WHITE_BED x 1}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{WHITE_BED x 1}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{CRAFTING_TABLE x 1}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{WHITE_BED x 1}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{OAK_LOG x 21}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{WHITE_BED x 1}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{WHITE_BED x 1}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{WHITE_BED x 1}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{WHITE_BED x 1}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{WHITE_BED x 1}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{WHITE_BED x 1}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{WHITE_BED x 1}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{WHITE_BED x 1}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{WHITE_BED x 1}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{WHITE_BED x 1}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{NETHERRACK x 64}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{COBBLESTONE x 3}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{NETHERRACK x 64}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{GRAVEL x 12}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{WHITE_BED x 1}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{WHITE_BED x 1}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{WHITE_BED x 1}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=236}}
+[2021-06-16 19:35:25] Player "flurbudurbur" took item: ItemStack{TORCH x 10}
+
+[2021-06-16 19:35:25] Player "flurbudurbur" took the last item. Removing AngelChest!
+
+=== AngelChest removed ===

@@ -1,0 +1,131 @@
+=== AngelChest spawned ===
+Player: paulreob
+Player UUID: cb2fa5a8-bc09-42a2-8e69-bcc8ba050c4f
+Death Time: 2021-06-18 13:25:57
+Death Location: 448 64 -293 @ world
+Chest Location: 448 64 -293 @ world
+Death Cause: ENTITY_ATTACK
+Player XP: 0.20967752
+Chest XP: 100
+Chest Protection: true
+Chest Duration: 1800 seconds
+
+=== INFORMATION ===
+Please note that some plugins remove certain items on death (soulbound items etc.), while other plugins add certain drops (player heads etc.). That's why this log file show you three different item lists:
+1. The original inventory as it was when the player died. This does not include 3rd party plugin drops, but includes items that would have been removed on death, e.g. curse of vanishing items.
+2. The items the player would have dropped if AngelChest wouldn't be used. This does include 3rd party plugin drops but does not include non-droppable items like curse of vanishing items.
+3. The final AngelChest contents, which is a combination of 1. and 2. and does not include randomly lost items: it includes all custom drops and does not include non-droppable items.
+
+=== 1. Player Inventory ===
+The player had the following items in his inventory at the time of his death:
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=104}}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=89}}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=9}}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{WHEAT_SEEDS x 11}
+> ItemStack{BAKED_POTATO x 61}
+> ItemStack{DIRT x 29}
+> ItemStack{SHIELD x 1}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=2}}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=239}}
+> ItemStack{ARROW x 2}
+> ItemStack{STICK x 2}
+> ItemStack{NETHERRACK x 23}
+> ItemStack{STONE_SLAB x 6}
+> ItemStack{CORNFLOWER x 1}
+> ItemStack{BUCKET x 1}
+> ItemStack{EGG x 1}
+> ItemStack{STRING x 1}
+> ItemStack{DIRT x 64}
+> ItemStack{DIRT x 64}
+> ItemStack{SMOOTH_STONE_SLAB x 5}
+> ItemStack{TORCH x 1}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=56}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=44}}
+
+=== 2. Player Drops ===
+The player would have dropped the following items at the time of this death:
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=104}}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=89}}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=9}}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{WHEAT_SEEDS x 11}
+> ItemStack{BAKED_POTATO x 61}
+> ItemStack{DIRT x 29}
+> ItemStack{SHIELD x 1}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=2}}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=239}}
+> ItemStack{ARROW x 2}
+> ItemStack{STICK x 2}
+> ItemStack{NETHERRACK x 23}
+> ItemStack{STONE_SLAB x 6}
+> ItemStack{CORNFLOWER x 1}
+> ItemStack{BUCKET x 1}
+> ItemStack{EGG x 1}
+> ItemStack{STRING x 1}
+> ItemStack{DIRT x 64}
+> ItemStack{DIRT x 64}
+> ItemStack{SMOOTH_STONE_SLAB x 5}
+> ItemStack{TORCH x 1}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=56}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=44}}
+
+=== 3. AngelChest inventory ===
+The AngelChest contains the following items:
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=104}}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=89}}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=9}}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{WHEAT_SEEDS x 11}
+> ItemStack{BAKED_POTATO x 61}
+> ItemStack{DIRT x 29}
+> ItemStack{SHIELD x 1}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=2}}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=239}}
+> ItemStack{ARROW x 2}
+> ItemStack{STICK x 2}
+> ItemStack{NETHERRACK x 23}
+> ItemStack{STONE_SLAB x 6}
+> ItemStack{CORNFLOWER x 1}
+> ItemStack{BUCKET x 1}
+> ItemStack{EGG x 1}
+> ItemStack{STRING x 1}
+> ItemStack{DIRT x 64}
+> ItemStack{DIRT x 64}
+> ItemStack{SMOOTH_STONE_SLAB x 5}
+> ItemStack{TORCH x 1}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=56}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=44}}
+
+[2021-06-18 13:26:15] Player "paulreob" paid 0.000000 to open this AngelChest for the first time.
+[2021-06-18 13:26:17] Player "paulreob" took item: ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=56}}
+[2021-06-18 13:26:17] Player "paulreob" took item: ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=44}}
+[2021-06-18 13:26:17] Player "paulreob" took item: ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=89}}
+[2021-06-18 13:26:17] Player "paulreob" took item: ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=9}}
+[2021-06-18 13:26:17] Player "paulreob" took item: ItemStack{STONE_PICKAXE x 1}
+[2021-06-18 13:26:17] Player "paulreob" took item: ItemStack{WHEAT_SEEDS x 11}
+[2021-06-18 13:26:17] Player "paulreob" took item: ItemStack{BAKED_POTATO x 61}
+[2021-06-18 13:26:17] Player "paulreob" took item: ItemStack{DIRT x 29}
+[2021-06-18 13:26:17] Player "paulreob" took item: ItemStack{SHIELD x 1}
+[2021-06-18 13:26:17] Player "paulreob" took item: ItemStack{STONE_PICKAXE x 1}
+[2021-06-18 13:26:17] Player "paulreob" took item: ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=2}}
+[2021-06-18 13:26:17] Player "paulreob" took item: ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=239}}
+[2021-06-18 13:26:17] Player "paulreob" took item: ItemStack{ARROW x 2}
+[2021-06-18 13:26:17] Player "paulreob" took item: ItemStack{STICK x 2}
+[2021-06-18 13:26:17] Player "paulreob" took item: ItemStack{NETHERRACK x 23}
+[2021-06-18 13:26:17] Player "paulreob" took item: ItemStack{STONE_SLAB x 6}
+[2021-06-18 13:26:17] Player "paulreob" took item: ItemStack{CORNFLOWER x 1}
+[2021-06-18 13:26:17] Player "paulreob" took item: ItemStack{BUCKET x 1}
+[2021-06-18 13:26:17] Player "paulreob" took item: ItemStack{EGG x 1}
+[2021-06-18 13:26:17] Player "paulreob" took item: ItemStack{STRING x 1}
+[2021-06-18 13:26:17] Player "paulreob" took item: ItemStack{DIRT x 64}
+[2021-06-18 13:26:17] Player "paulreob" took item: ItemStack{DIRT x 64}
+[2021-06-18 13:26:17] Player "paulreob" took item: ItemStack{SMOOTH_STONE_SLAB x 5}
+[2021-06-18 13:26:17] Player "paulreob" took item: ItemStack{TORCH x 1}
+
+[2021-06-18 13:26:17] Player "paulreob" took the last item. Removing AngelChest!
+
+=== AngelChest removed ===

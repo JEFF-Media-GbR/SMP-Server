@@ -1,0 +1,58 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 217.122.209.147
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1624199840255
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1624199890546
+  login: 1624186422260
+money: '0'
+lastlocation:
+  world: dd708c59-a9a2-4022-87a4-fab30985f6b3
+  x: 347.47759547937466
+  y: 66.0
+  z: -91.93503055442322
+  yaw: 100.11890411376953
+  pitch: -17.883649826049805
+last-account-name: flurbudurbur
+logoutlocation:
+  world: dd708c59-a9a2-4022-87a4-fab30985f6b3
+  x: 303.5
+  y: 66.0
+  z: -88.5
+  yaw: -82.2407455444336
+  pitch: 8.462172508239746
+homes:
+  home:
+    world: dd708c59-a9a2-4022-87a4-fab30985f6b3
+    x: 304.69999998807907
+    y: 66.0
+    z: -85.40134588245276
+    yaw: 120.741455078125
+    pitch: 10.66170883178711
+  stronghold:
+    world: dd708c59-a9a2-4022-87a4-fab30985f6b3
+    x: 1561.6970862744952
+    y: 18.0
+    z: 789.2961818668455
+    yaw: 88.880615234375
+    pitch: 0.9884523153305054
+  yeet:
+    world: 08b0b5ab-ee91-453f-8457-23fb858dad7d
+    x: 1963.7549749848545
+    y: 59.0
+    z: -3169.2877722401777
+    yaw: -10.52685546875
+    pitch: 11.23342514038086

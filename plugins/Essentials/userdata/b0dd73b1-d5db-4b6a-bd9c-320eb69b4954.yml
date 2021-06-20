@@ -1,0 +1,36 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.203.22.77
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1623871568870
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1624136870845
+  login: 1624135024201
+money: '0'
+last-account-name: Vikxng
+lastlocation:
+  world: dd708c59-a9a2-4022-87a4-fab30985f6b3
+  x: 417.1542780367596
+  y: 72.0
+  z: -59.256846405930744
+  yaw: -88.91534423828125
+  pitch: 21.899965286254883
+logoutlocation:
+  world: dd708c59-a9a2-4022-87a4-fab30985f6b3
+  x: 471.6345386847835
+  y: 64.5625
+  z: -294.69999998807907
+  yaw: 98.39404296875
+  pitch: 29.40004539489746

@@ -1,0 +1,99 @@
+=== AngelChest spawned ===
+Player: Vikxng
+Player UUID: b0dd73b1-d5db-4b6a-bd9c-320eb69b4954
+Death Time: 2021-06-16 20:30:48
+Death Location: 479 28 -269 @ world
+Chest Location: 479 28 -269 @ world
+Death Cause: PROJECTILE
+Player XP: 0.0
+Chest XP: 7
+Chest Protection: true
+Chest Duration: 1800 seconds
+
+=== INFORMATION ===
+Please note that some plugins remove certain items on death (soulbound items etc.), while other plugins add certain drops (player heads etc.). That's why this log file show you three different item lists:
+1. The original inventory as it was when the player died. This does not include 3rd party plugin drops, but includes items that would have been removed on death, e.g. curse of vanishing items.
+2. The items the player would have dropped if AngelChest wouldn't be used. This does include 3rd party plugin drops but does not include non-droppable items like curse of vanishing items.
+3. The final AngelChest contents, which is a combination of 1. and 2. and does not include randomly lost items: it includes all custom drops and does not include non-droppable items.
+
+=== 1. Player Inventory ===
+The player had the following items in his inventory at the time of his death:
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=13}}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=9}}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=102}}
+> ItemStack{POTATO x 61}
+> ItemStack{TORCH x 25}
+> ItemStack{POINTED_DRIPSTONE x 3}
+> ItemStack{STONE_AXE x 1}
+> ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=100}}
+> ItemStack{DIRT x 21}
+> ItemStack{SHEARS x 1}
+> ItemStack{STONE_SHOVEL x 1}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{GRANITE x 4}
+> ItemStack{FLINT x 1}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{COBBLESTONE x 45}
+> ItemStack{GRAVEL x 9}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{DIRT x 64}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{DRIPSTONE_BLOCK x 4}
+> ItemStack{RAW_IRON x 4}
+> ItemStack{STONE_PICKAXE x 1}
+
+=== 2. Player Drops ===
+The player would have dropped the following items at the time of this death:
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=13}}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=9}}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=102}}
+> ItemStack{POTATO x 61}
+> ItemStack{TORCH x 25}
+> ItemStack{POINTED_DRIPSTONE x 3}
+> ItemStack{STONE_AXE x 1}
+> ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=100}}
+> ItemStack{DIRT x 21}
+> ItemStack{SHEARS x 1}
+> ItemStack{STONE_SHOVEL x 1}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{GRANITE x 4}
+> ItemStack{FLINT x 1}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{COBBLESTONE x 45}
+> ItemStack{GRAVEL x 9}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{DIRT x 64}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{DRIPSTONE_BLOCK x 4}
+> ItemStack{RAW_IRON x 4}
+> ItemStack{STONE_PICKAXE x 1}
+
+=== 3. AngelChest inventory ===
+The AngelChest contains the following items:
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=13}}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=9}}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=102}}
+> ItemStack{POTATO x 61}
+> ItemStack{TORCH x 25}
+> ItemStack{POINTED_DRIPSTONE x 3}
+> ItemStack{STONE_AXE x 1}
+> ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=100}}
+> ItemStack{DIRT x 21}
+> ItemStack{SHEARS x 1}
+> ItemStack{STONE_SHOVEL x 1}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{GRANITE x 4}
+> ItemStack{FLINT x 1}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{COBBLESTONE x 45}
+> ItemStack{GRAVEL x 9}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{DIRT x 64}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{DRIPSTONE_BLOCK x 4}
+> ItemStack{RAW_IRON x 4}
+> ItemStack{STONE_PICKAXE x 1}
+

@@ -1,0 +1,165 @@
+=== AngelChest spawned ===
+Player: Pukejoy_1
+Player UUID: be66fced-aad1-48b6-8e71-5d399590b36e
+Death Time: 2021-06-16 23:08:17
+Death Location: 36 61 -30 @ world_the_end
+Chest Location: 36 61 -30 @ world_the_end
+Death Cause: ENTITY_ATTACK
+Player XP: 0.39999998
+Chest XP: 63
+Chest Protection: true
+Chest Duration: 1800 seconds
+
+=== INFORMATION ===
+Please note that some plugins remove certain items on death (soulbound items etc.), while other plugins add certain drops (player heads etc.). That's why this log file show you three different item lists:
+1. The original inventory as it was when the player died. This does not include 3rd party plugin drops, but includes items that would have been removed on death, e.g. curse of vanishing items.
+2. The items the player would have dropped if AngelChest wouldn't be used. This does include 3rd party plugin drops but does not include non-droppable items like curse of vanishing items.
+3. The final AngelChest contents, which is a combination of 1. and 2. and does not include randomly lost items: it includes all custom drops and does not include non-droppable items.
+
+=== 1. Player Inventory ===
+The player had the following items in his inventory at the time of his death:
+> ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=89}}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=11}}
+> ItemStack{SPRUCE_PLANKS x 2}
+> ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=73}}
+> ItemStack{END_STONE x 18}
+> ItemStack{ENDER_PEARL x 1}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=107}}
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=76}}
+> ItemStack{STONE_HOE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=1}}
+> ItemStack{POTATO x 8}
+> ItemStack{PUMPKIN_SEEDS x 33}
+> ItemStack{SWEET_BERRIES x 42}
+> ItemStack{WHEAT_SEEDS x 22}
+> ItemStack{EMERALD x 2}
+> ItemStack{IRON_INGOT x 15}
+> ItemStack{OAK_BOAT x 1}
+> ItemStack{CRAFTING_TABLE x 1}
+> ItemStack{LAPIS_LAZULI x 36}
+> ItemStack{WATER_BUCKET x 1}
+> ItemStack{BOOK x 64}
+> ItemStack{BOOK x 64}
+> ItemStack{BOOK x 64}
+> ItemStack{GUNPOWDER x 6}
+> ItemStack{RAW_COPPER x 7}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{BOOK x 58}
+> ItemStack{STRING x 11}
+> ItemStack{IRON_LEGGINGS x 1}
+> ItemStack{APPLE x 3}
+> ItemStack{GOLD_INGOT x 2}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=28}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=28}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=28}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=36}}
+
+=== 2. Player Drops ===
+The player would have dropped the following items at the time of this death:
+> ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=89}}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=11}}
+> ItemStack{SPRUCE_PLANKS x 2}
+> ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=73}}
+> ItemStack{END_STONE x 18}
+> ItemStack{ENDER_PEARL x 1}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=107}}
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=76}}
+> ItemStack{STONE_HOE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=1}}
+> ItemStack{POTATO x 8}
+> ItemStack{PUMPKIN_SEEDS x 33}
+> ItemStack{SWEET_BERRIES x 42}
+> ItemStack{WHEAT_SEEDS x 22}
+> ItemStack{EMERALD x 2}
+> ItemStack{IRON_INGOT x 15}
+> ItemStack{OAK_BOAT x 1}
+> ItemStack{CRAFTING_TABLE x 1}
+> ItemStack{LAPIS_LAZULI x 36}
+> ItemStack{WATER_BUCKET x 1}
+> ItemStack{BOOK x 64}
+> ItemStack{BOOK x 64}
+> ItemStack{BOOK x 64}
+> ItemStack{GUNPOWDER x 6}
+> ItemStack{RAW_COPPER x 7}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{BOOK x 58}
+> ItemStack{STRING x 11}
+> ItemStack{IRON_LEGGINGS x 1}
+> ItemStack{APPLE x 3}
+> ItemStack{GOLD_INGOT x 2}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=28}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=28}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=28}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=36}}
+
+=== 3. AngelChest inventory ===
+The AngelChest contains the following items:
+> ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=89}}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=11}}
+> ItemStack{SPRUCE_PLANKS x 2}
+> ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=73}}
+> ItemStack{END_STONE x 18}
+> ItemStack{ENDER_PEARL x 1}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=107}}
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=76}}
+> ItemStack{STONE_HOE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=1}}
+> ItemStack{POTATO x 8}
+> ItemStack{PUMPKIN_SEEDS x 33}
+> ItemStack{SWEET_BERRIES x 42}
+> ItemStack{WHEAT_SEEDS x 22}
+> ItemStack{EMERALD x 2}
+> ItemStack{IRON_INGOT x 15}
+> ItemStack{OAK_BOAT x 1}
+> ItemStack{CRAFTING_TABLE x 1}
+> ItemStack{LAPIS_LAZULI x 36}
+> ItemStack{WATER_BUCKET x 1}
+> ItemStack{BOOK x 64}
+> ItemStack{BOOK x 64}
+> ItemStack{BOOK x 64}
+> ItemStack{GUNPOWDER x 6}
+> ItemStack{RAW_COPPER x 7}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{BOOK x 58}
+> ItemStack{STRING x 11}
+> ItemStack{IRON_LEGGINGS x 1}
+> ItemStack{APPLE x 3}
+> ItemStack{GOLD_INGOT x 2}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=28}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=28}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=28}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=36}}
+
+[2021-06-16 23:17:43] Player "Cazcez" paid 0.000000 to open this AngelChest for the first time.
+[2021-06-16 23:17:46] Player "Cazcez" took item: ItemStack{BOOK x 64}
+[2021-06-16 23:17:46] Player "Cazcez" took item: ItemStack{BOOK x 64}
+[2021-06-16 23:17:46] Player "Cazcez" took item: ItemStack{BOOK x 64}
+[2021-06-16 23:17:47] Player "Cazcez" took item: ItemStack{BOOK x 58}
+[2021-06-16 23:17:49] Player "Cazcez" took item: ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=36}}
+[2021-06-16 23:17:49] Player "Cazcez" took item: ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=28}}
+[2021-06-16 23:17:54] Player "Cazcez" took item: ItemStack{IRON_LEGGINGS x 1}
+[2021-06-16 23:17:57] Player "Cazcez" took item: ItemStack{RAW_COPPER x 7}
+[2021-06-16 23:17:58] Player "Cazcez" took item: ItemStack{GOLD_INGOT x 2}
+[2021-06-16 23:17:58] Player "Cazcez" took item: ItemStack{APPLE x 3}
+[2021-06-16 23:17:59] Player "Cazcez" took item: ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=107}}
+[2021-06-16 23:17:59] Player "Cazcez" took item: ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=89}}
+[2021-06-16 23:18:00] Player "Cazcez" took item: ItemStack{IRON_INGOT x 15}
+[2021-06-16 23:18:00] Player "Cazcez" took XP: 63
+[2021-06-16 23:18:01] Player "Cazcez" took item: ItemStack{EMERALD x 2}
+[2021-06-16 23:18:05] Player "Cazcez" took item: ItemStack{CRAFTING_TABLE x 1}
+[2021-06-16 23:18:08] Player "Cazcez" took item: ItemStack{ENDER_PEARL x 1}
+[2021-06-16 23:18:37] Player "Mtterry" paid 0.000000 to open this AngelChest for the first time.
+[2021-06-16 23:18:41] Player "Mtterry" took item: ItemStack{OAK_BOAT x 1}
+[2021-06-16 23:18:41] Player "Mtterry" took item: ItemStack{WHEAT_SEEDS x 22}
+[2021-06-16 23:18:42] Player "Mtterry" took item: ItemStack{SWEET_BERRIES x 42}
+[2021-06-16 23:18:42] Player "Mtterry" took item: ItemStack{POTATO x 8}
+[2021-06-16 23:18:42] Player "Mtterry" took item: ItemStack{STONE_HOE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=1}}
+[2021-06-16 23:18:43] Player "Mtterry" took item: ItemStack{LAPIS_LAZULI x 36}
+[2021-06-16 23:18:43] Player "Mtterry" took item: ItemStack{WHITE_BED x 1}
+[2021-06-16 23:18:44] Player "Mtterry" took item: ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=11}}
+[2021-06-16 23:18:44] Player "Mtterry" took item: ItemStack{SPRUCE_PLANKS x 2}
+[2021-06-16 23:18:44] Player "Mtterry" took item: ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=73}}
+[2021-06-16 23:18:45] Player "Mtterry" took item: ItemStack{STRING x 11}
+[2021-06-16 23:18:45] Player "Mtterry" took item: ItemStack{WATER_BUCKET x 1}
+[2021-06-16 23:18:46] Player "Mtterry" took item: ItemStack{GUNPOWDER x 6}
+[2021-06-16 23:18:47] Player "Mtterry" took item: ItemStack{PUMPKIN_SEEDS x 33}
+[2021-06-16 23:18:51] Player "Mtterry" took item: ItemStack{PUMPKIN_SEEDS x 33}
+[2021-06-16 23:22:05] Player "Mtterry" took item: ItemStack{GUNPOWDER x 6}
+[2021-06-16 23:22:15] Player "Mtterry" took item: ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=28}}

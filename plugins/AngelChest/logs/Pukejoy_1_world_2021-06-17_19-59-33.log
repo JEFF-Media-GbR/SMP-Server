@@ -1,0 +1,136 @@
+=== AngelChest spawned ===
+Player: Pukejoy_1
+Player UUID: be66fced-aad1-48b6-8e71-5d399590b36e
+Death Time: 2021-06-17 19:59:33
+Death Location: 520 63 62 @ world
+Chest Location: 520 63 62 @ world
+Death Cause: ENTITY_ATTACK
+Player XP: 0.8695654
+Chest XP: 56
+Chest Protection: true
+Chest Duration: 1800 seconds
+
+=== INFORMATION ===
+Please note that some plugins remove certain items on death (soulbound items etc.), while other plugins add certain drops (player heads etc.). That's why this log file show you three different item lists:
+1. The original inventory as it was when the player died. This does not include 3rd party plugin drops, but includes items that would have been removed on death, e.g. curse of vanishing items.
+2. The items the player would have dropped if AngelChest wouldn't be used. This does include 3rd party plugin drops but does not include non-droppable items like curse of vanishing items.
+3. The final AngelChest contents, which is a combination of 1. and 2. and does not include randomly lost items: it includes all custom drops and does not include non-droppable items.
+
+=== 1. Player Inventory ===
+The player had the following items in his inventory at the time of his death:
+> ItemStack{STONE x 5, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name={"extra":[{"text":"Tombstone"}],"text":""}}}
+> ItemStack{BOOK x 64}
+> ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=163}}
+> ItemStack{RAW_COPPER x 7}
+> ItemStack{GOLD_INGOT x 2}
+> ItemStack{DIAMOND x 1}
+> ItemStack{BOOK x 64}
+> ItemStack{ROTTEN_FLESH x 37}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=28}}
+> ItemStack{STRING x 13}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=107}}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=11}}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{STONE_HOE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=1}}
+> ItemStack{CARROT x 64}
+> ItemStack{BOOK x 58}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=86}}
+> ItemStack{GOLDEN_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=3}, Damage=52}}
+> ItemStack{WHEAT_SEEDS x 1}
+> ItemStack{POTATO x 1}
+> ItemStack{GOLDEN_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=3}, Damage=52}}
+> ItemStack{DIRT x 8}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=48}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=26}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=54}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=62}}
+
+=== 2. Player Drops ===
+The player would have dropped the following items at the time of this death:
+> ItemStack{STONE x 5, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name={"extra":[{"text":"Tombstone"}],"text":""}}}
+> ItemStack{BOOK x 64}
+> ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=163}}
+> ItemStack{RAW_COPPER x 7}
+> ItemStack{GOLD_INGOT x 2}
+> ItemStack{DIAMOND x 1}
+> ItemStack{BOOK x 64}
+> ItemStack{ROTTEN_FLESH x 37}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=28}}
+> ItemStack{STRING x 13}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=107}}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=11}}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{STONE_HOE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=1}}
+> ItemStack{CARROT x 64}
+> ItemStack{BOOK x 58}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=86}}
+> ItemStack{GOLDEN_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=3}, Damage=52}}
+> ItemStack{WHEAT_SEEDS x 1}
+> ItemStack{POTATO x 1}
+> ItemStack{GOLDEN_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=3}, Damage=52}}
+> ItemStack{DIRT x 8}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=48}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=26}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=54}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=62}}
+
+=== 3. AngelChest inventory ===
+The AngelChest contains the following items:
+> ItemStack{STONE x 5, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name={"extra":[{"text":"Tombstone"}],"text":""}}}
+> ItemStack{BOOK x 64}
+> ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=163}}
+> ItemStack{RAW_COPPER x 7}
+> ItemStack{GOLD_INGOT x 2}
+> ItemStack{DIAMOND x 1}
+> ItemStack{BOOK x 64}
+> ItemStack{ROTTEN_FLESH x 37}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=28}}
+> ItemStack{STRING x 13}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=107}}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=11}}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{STONE_HOE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=1}}
+> ItemStack{CARROT x 64}
+> ItemStack{BOOK x 58}
+> ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=86}}
+> ItemStack{GOLDEN_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=3}, Damage=52}}
+> ItemStack{WHEAT_SEEDS x 1}
+> ItemStack{POTATO x 1}
+> ItemStack{GOLDEN_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=3}, Damage=52}}
+> ItemStack{DIRT x 8}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=48}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=26}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=54}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=62}}
+
+[2021-06-17 19:59:43] Player "Pukejoy_1" paid 0.000000 to open this AngelChest for the first time.
+[2021-06-17 19:59:43] Player "Pukejoy_1" took item: ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=48}}
+[2021-06-17 19:59:43] Player "Pukejoy_1" took item: ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=26}}
+[2021-06-17 19:59:43] Player "Pukejoy_1" took item: ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=54}}
+[2021-06-17 19:59:43] Player "Pukejoy_1" took item: ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=62}}
+[2021-06-17 19:59:43] Player "Pukejoy_1" took item: ItemStack{STONE x 5, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name={"extra":[{"text":"Tombstone"}],"text":""}}}
+[2021-06-17 19:59:43] Player "Pukejoy_1" took item: ItemStack{BOOK x 64}
+[2021-06-17 19:59:43] Player "Pukejoy_1" took item: ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=163}}
+[2021-06-17 19:59:43] Player "Pukejoy_1" took item: ItemStack{RAW_COPPER x 7}
+[2021-06-17 19:59:43] Player "Pukejoy_1" took item: ItemStack{GOLD_INGOT x 2}
+[2021-06-17 19:59:43] Player "Pukejoy_1" took item: ItemStack{DIAMOND x 1}
+[2021-06-17 19:59:43] Player "Pukejoy_1" took item: ItemStack{BOOK x 64}
+[2021-06-17 19:59:43] Player "Pukejoy_1" took item: ItemStack{ROTTEN_FLESH x 37}
+[2021-06-17 19:59:43] Player "Pukejoy_1" took item: ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=28}}
+[2021-06-17 19:59:43] Player "Pukejoy_1" took item: ItemStack{STRING x 13}
+[2021-06-17 19:59:43] Player "Pukejoy_1" took item: ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=107}}
+[2021-06-17 19:59:43] Player "Pukejoy_1" took item: ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=11}}
+[2021-06-17 19:59:43] Player "Pukejoy_1" took item: ItemStack{WHITE_BED x 1}
+[2021-06-17 19:59:43] Player "Pukejoy_1" took item: ItemStack{STONE_HOE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=1}}
+[2021-06-17 19:59:43] Player "Pukejoy_1" took item: ItemStack{CARROT x 64}
+[2021-06-17 19:59:43] Player "Pukejoy_1" took item: ItemStack{BOOK x 58}
+[2021-06-17 19:59:43] Player "Pukejoy_1" took item: ItemStack{IRON_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=86}}
+[2021-06-17 19:59:43] Player "Pukejoy_1" took item: ItemStack{GOLDEN_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=3}, Damage=52}}
+[2021-06-17 19:59:43] Player "Pukejoy_1" took item: ItemStack{WHEAT_SEEDS x 1}
+[2021-06-17 19:59:43] Player "Pukejoy_1" took item: ItemStack{POTATO x 1}
+[2021-06-17 19:59:43] Player "Pukejoy_1" took item: ItemStack{GOLDEN_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={PROTECTION_ENVIRONMENTAL=3}, Damage=52}}
+[2021-06-17 19:59:43] Player "Pukejoy_1" took item: ItemStack{DIRT x 8}
+
+[2021-06-17 19:59:43] Player "Pukejoy_1" took the last item. Removing AngelChest!
+
+=== AngelChest removed ===

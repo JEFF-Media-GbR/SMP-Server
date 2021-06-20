@@ -1,0 +1,137 @@
+=== AngelChest spawned ===
+Player: Pukejoy_1
+Player UUID: be66fced-aad1-48b6-8e71-5d399590b36e
+Death Time: 2021-06-16 22:22:14
+Death Location: 1044 70 342 @ world
+Chest Location: 1044 70 342 @ world
+Death Cause: ENTITY_EXPLOSION
+Player XP: 0.35294124
+Chest XP: 35
+Chest Protection: true
+Chest Duration: 1800 seconds
+
+=== INFORMATION ===
+Please note that some plugins remove certain items on death (soulbound items etc.), while other plugins add certain drops (player heads etc.). That's why this log file show you three different item lists:
+1. The original inventory as it was when the player died. This does not include 3rd party plugin drops, but includes items that would have been removed on death, e.g. curse of vanishing items.
+2. The items the player would have dropped if AngelChest wouldn't be used. This does include 3rd party plugin drops but does not include non-droppable items like curse of vanishing items.
+3. The final AngelChest contents, which is a combination of 1. and 2. and does not include randomly lost items: it includes all custom drops and does not include non-droppable items.
+
+=== 1. Player Inventory ===
+The player had the following items in his inventory at the time of his death:
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=70}}
+> ItemStack{ROTTEN_FLESH x 1}
+> ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=74}}
+> ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=61}}
+> ItemStack{STONE_HOE x 1}
+> ItemStack{EMERALD x 1}
+> ItemStack{COBBLESTONE x 43}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{RAW_IRON x 8}
+> ItemStack{RAW_COPPER x 7}
+> ItemStack{SWEET_BERRIES x 42}
+> ItemStack{MUTTON x 6}
+> ItemStack{POTATO x 8}
+> ItemStack{GUNPOWDER x 2}
+> ItemStack{WHEAT_SEEDS x 21}
+> ItemStack{ARROW x 2}
+> ItemStack{STICK x 1}
+> ItemStack{OAK_LOG x 4}
+> ItemStack{OAK_PLANKS x 3}
+> ItemStack{OAK_SAPLING x 3}
+> ItemStack{SPIDER_EYE x 2}
+> ItemStack{SPRUCE_PLANKS x 30}
+> ItemStack{DIRT x 17}
+> ItemStack{CRAFTING_TABLE x 1}
+> ItemStack{PUMPKIN_SEEDS x 33}
+> ItemStack{OAK_SLAB x 4}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=8}}
+
+=== 2. Player Drops ===
+The player would have dropped the following items at the time of this death:
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=70}}
+> ItemStack{ROTTEN_FLESH x 1}
+> ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=74}}
+> ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=61}}
+> ItemStack{STONE_HOE x 1}
+> ItemStack{EMERALD x 1}
+> ItemStack{COBBLESTONE x 43}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{RAW_IRON x 8}
+> ItemStack{RAW_COPPER x 7}
+> ItemStack{SWEET_BERRIES x 42}
+> ItemStack{MUTTON x 6}
+> ItemStack{POTATO x 8}
+> ItemStack{GUNPOWDER x 2}
+> ItemStack{WHEAT_SEEDS x 21}
+> ItemStack{ARROW x 2}
+> ItemStack{STICK x 1}
+> ItemStack{OAK_LOG x 4}
+> ItemStack{OAK_PLANKS x 3}
+> ItemStack{OAK_SAPLING x 3}
+> ItemStack{SPIDER_EYE x 2}
+> ItemStack{SPRUCE_PLANKS x 30}
+> ItemStack{DIRT x 17}
+> ItemStack{CRAFTING_TABLE x 1}
+> ItemStack{PUMPKIN_SEEDS x 33}
+> ItemStack{OAK_SLAB x 4}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=8}}
+
+=== 3. AngelChest inventory ===
+The AngelChest contains the following items:
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=70}}
+> ItemStack{ROTTEN_FLESH x 1}
+> ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=74}}
+> ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=61}}
+> ItemStack{STONE_HOE x 1}
+> ItemStack{EMERALD x 1}
+> ItemStack{COBBLESTONE x 43}
+> ItemStack{WHITE_BED x 1}
+> ItemStack{RAW_IRON x 8}
+> ItemStack{RAW_COPPER x 7}
+> ItemStack{SWEET_BERRIES x 42}
+> ItemStack{MUTTON x 6}
+> ItemStack{POTATO x 8}
+> ItemStack{GUNPOWDER x 2}
+> ItemStack{WHEAT_SEEDS x 21}
+> ItemStack{ARROW x 2}
+> ItemStack{STICK x 1}
+> ItemStack{OAK_LOG x 4}
+> ItemStack{OAK_PLANKS x 3}
+> ItemStack{OAK_SAPLING x 3}
+> ItemStack{SPIDER_EYE x 2}
+> ItemStack{SPRUCE_PLANKS x 30}
+> ItemStack{DIRT x 17}
+> ItemStack{CRAFTING_TABLE x 1}
+> ItemStack{PUMPKIN_SEEDS x 33}
+> ItemStack{OAK_SLAB x 4}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=8}}
+
+[2021-06-16 22:22:20] Player "Pukejoy_1" paid 0.000000 to open this AngelChest for the first time.
+[2021-06-16 22:22:22] Player "Pukejoy_1" took item: ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=8}}
+[2021-06-16 22:22:22] Player "Pukejoy_1" took item: ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=61}}
+[2021-06-16 22:22:22] Player "Pukejoy_1" took item: ItemStack{STONE_HOE x 1}
+[2021-06-16 22:22:22] Player "Pukejoy_1" took item: ItemStack{EMERALD x 1}
+[2021-06-16 22:22:22] Player "Pukejoy_1" took item: ItemStack{COBBLESTONE x 43}
+[2021-06-16 22:22:22] Player "Pukejoy_1" took item: ItemStack{WHITE_BED x 1}
+[2021-06-16 22:22:22] Player "Pukejoy_1" took item: ItemStack{RAW_IRON x 8}
+[2021-06-16 22:22:22] Player "Pukejoy_1" took item: ItemStack{RAW_COPPER x 7}
+[2021-06-16 22:22:22] Player "Pukejoy_1" took item: ItemStack{SWEET_BERRIES x 42}
+[2021-06-16 22:22:22] Player "Pukejoy_1" took item: ItemStack{MUTTON x 6}
+[2021-06-16 22:22:22] Player "Pukejoy_1" took item: ItemStack{POTATO x 8}
+[2021-06-16 22:22:22] Player "Pukejoy_1" took item: ItemStack{GUNPOWDER x 2}
+[2021-06-16 22:22:22] Player "Pukejoy_1" took item: ItemStack{WHEAT_SEEDS x 21}
+[2021-06-16 22:22:22] Player "Pukejoy_1" took item: ItemStack{ARROW x 2}
+[2021-06-16 22:22:22] Player "Pukejoy_1" took item: ItemStack{STICK x 1}
+[2021-06-16 22:22:22] Player "Pukejoy_1" took item: ItemStack{OAK_LOG x 4}
+[2021-06-16 22:22:22] Player "Pukejoy_1" took item: ItemStack{OAK_PLANKS x 3}
+[2021-06-16 22:22:22] Player "Pukejoy_1" took item: ItemStack{OAK_SAPLING x 3}
+[2021-06-16 22:22:22] Player "Pukejoy_1" took item: ItemStack{SPIDER_EYE x 2}
+[2021-06-16 22:22:22] Player "Pukejoy_1" took item: ItemStack{SPRUCE_PLANKS x 30}
+[2021-06-16 22:22:22] Player "Pukejoy_1" took item: ItemStack{DIRT x 17}
+[2021-06-16 22:22:22] Player "Pukejoy_1" took item: ItemStack{CRAFTING_TABLE x 1}
+[2021-06-16 22:22:22] Player "Pukejoy_1" took item: ItemStack{PUMPKIN_SEEDS x 33}
+[2021-06-16 22:22:22] Player "Pukejoy_1" took item: ItemStack{OAK_SLAB x 4}
+
+[2021-06-16 22:22:22] Player "Pukejoy_1" took the last item. Removing AngelChest!
+
+=== AngelChest removed ===

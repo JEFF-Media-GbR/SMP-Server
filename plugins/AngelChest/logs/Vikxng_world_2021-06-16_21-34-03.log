@@ -1,0 +1,97 @@
+=== AngelChest spawned ===
+Player: Vikxng
+Player UUID: b0dd73b1-d5db-4b6a-bd9c-320eb69b4954
+Death Time: 2021-06-16 21:34:03
+Death Location: 501 65 -266 @ world
+Chest Location: 501 65 -266 @ world
+Death Cause: PROJECTILE
+Player XP: 0.2222223
+Chest XP: 7
+Chest Protection: true
+Chest Duration: 1800 seconds
+
+=== INFORMATION ===
+Please note that some plugins remove certain items on death (soulbound items etc.), while other plugins add certain drops (player heads etc.). That's why this log file show you three different item lists:
+1. The original inventory as it was when the player died. This does not include 3rd party plugin drops, but includes items that would have been removed on death, e.g. curse of vanishing items.
+2. The items the player would have dropped if AngelChest wouldn't be used. This does include 3rd party plugin drops but does not include non-droppable items like curse of vanishing items.
+3. The final AngelChest contents, which is a combination of 1. and 2. and does not include randomly lost items: it includes all custom drops and does not include non-droppable items.
+
+=== 1. Player Inventory ===
+The player had the following items in his inventory at the time of his death:
+> ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=3}}
+> ItemStack{COBBLESTONE x 7}
+> ItemStack{POTATO x 14}
+> ItemStack{DIRT x 16}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=7}}
+> ItemStack{TORCH x 64}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{SHEARS x 1}
+> ItemStack{STONE_SHOVEL x 1}
+> ItemStack{STONE_AXE x 1}
+> ItemStack{STONE_AXE x 1}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{IRON_PICKAXE x 1}
+
+=== 2. Player Drops ===
+The player would have dropped the following items at the time of this death:
+> ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=3}}
+> ItemStack{COBBLESTONE x 7}
+> ItemStack{POTATO x 14}
+> ItemStack{DIRT x 16}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=7}}
+> ItemStack{TORCH x 64}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{SHEARS x 1}
+> ItemStack{STONE_SHOVEL x 1}
+> ItemStack{STONE_AXE x 1}
+> ItemStack{STONE_AXE x 1}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{IRON_PICKAXE x 1}
+
+=== 3. AngelChest inventory ===
+The AngelChest contains the following items:
+> ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=3}}
+> ItemStack{COBBLESTONE x 7}
+> ItemStack{POTATO x 14}
+> ItemStack{DIRT x 16}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=7}}
+> ItemStack{TORCH x 64}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{SHEARS x 1}
+> ItemStack{STONE_SHOVEL x 1}
+> ItemStack{STONE_AXE x 1}
+> ItemStack{STONE_AXE x 1}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{IRON_PICKAXE x 1}
+
+[2021-06-16 21:38:24] Player "Vikxng" paid 0.000000 to open this AngelChest for the first time.
+[2021-06-16 21:38:25] Player "Vikxng" took item: ItemStack{STONE_PICKAXE x 1}
+[2021-06-16 21:38:28] Player "Vikxng" took item: ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=3}}
+[2021-06-16 21:38:28] Player "Vikxng" took item: ItemStack{POTATO x 14}
+[2021-06-16 21:38:30] Player "Vikxng" took item: ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=7}}
+[2021-06-16 21:38:32] Player "Vikxng" took item: ItemStack{TORCH x 64}
+[2021-06-16 21:38:33] Player "Vikxng" took item: ItemStack{DIRT x 16}
+[2021-06-16 21:38:36] Player "Vikxng" took item: ItemStack{STONE_PICKAXE x 1}
+[2021-06-16 21:38:38] Player "Vikxng" took item: ItemStack{SHEARS x 1}
+[2021-06-16 21:38:39] Player "Vikxng" took item: ItemStack{STONE_PICKAXE x 1}
+[2021-06-16 21:38:40] Player "Vikxng" took item: ItemStack{STONE_PICKAXE x 1}
+[2021-06-16 21:38:41] Player "Vikxng" took item: ItemStack{IRON_PICKAXE x 1}
+[2021-06-16 21:38:41] Player "Vikxng" took item: ItemStack{STONE_PICKAXE x 1}
+[2021-06-16 21:38:41] Player "Vikxng" took item: ItemStack{STONE_AXE x 1}
+[2021-06-16 21:38:42] Player "Vikxng" took item: ItemStack{STONE_AXE x 1}
+[2021-06-16 21:38:43] Player "Vikxng" took item: ItemStack{STONE_SHOVEL x 1}
+[2021-06-16 21:38:43] Player "Vikxng" took item: ItemStack{COBBLESTONE x 7}
+[2021-06-16 21:38:45] Player "Vikxng" took XP: 7
+
+[2021-06-16 21:38:45] Player "Vikxng" took the last item. Removing AngelChest!
+
+=== AngelChest removed ===

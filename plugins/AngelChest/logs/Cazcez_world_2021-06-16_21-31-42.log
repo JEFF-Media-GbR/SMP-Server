@@ -1,0 +1,196 @@
+=== AngelChest spawned ===
+Player: Cazcez
+Player UUID: dee0c76f-0ecb-429b-bc5c-db624d907910
+Death Time: 2021-06-16 21:31:42
+Death Location: 709 67 -11 @ world
+Chest Location: 709 67 -11 @ world
+Death Cause: FALL
+Player XP: 0.8787873
+Chest XP: 91
+Chest Protection: true
+Chest Duration: 1800 seconds
+
+=== INFORMATION ===
+Please note that some plugins remove certain items on death (soulbound items etc.), while other plugins add certain drops (player heads etc.). That's why this log file show you three different item lists:
+1. The original inventory as it was when the player died. This does not include 3rd party plugin drops, but includes items that would have been removed on death, e.g. curse of vanishing items.
+2. The items the player would have dropped if AngelChest wouldn't be used. This does include 3rd party plugin drops but does not include non-droppable items like curse of vanishing items.
+3. The final AngelChest contents, which is a combination of 1. and 2. and does not include randomly lost items: it includes all custom drops and does not include non-droppable items.
+
+=== 1. Player Inventory ===
+The player had the following items in his inventory at the time of his death:
+> ItemStack{DIAMOND_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=10}}
+> ItemStack{DIAMOND_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=85}}
+> ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=923}}
+> ItemStack{DIAMOND_SHOVEL x 1}
+> ItemStack{CARROT x 13}
+> ItemStack{OAK_LOG x 51}
+> ItemStack{CRYING_OBSIDIAN x 6}
+> ItemStack{SPLASH_POTION x 1, POTION_META:{meta-type=POTION, potion-type=minecraft:fire_resistance}}
+> ItemStack{NETHERRACK x 31}
+> ItemStack{IRON_INGOT x 38}
+> ItemStack{GRAVEL x 43}
+> ItemStack{ANCIENT_DEBRIS x 1}
+> ItemStack{GOLDEN_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=31}}
+> ItemStack{LEATHER x 57}
+> ItemStack{BIRCH_LOG x 18}
+> ItemStack{SPLASH_POTION x 1, POTION_META:{meta-type=POTION, potion-type=minecraft:fire_resistance}}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={SOUL_SPEED=1}, Damage=11}}
+> ItemStack{SOUL_SAND x 30}
+> ItemStack{BEACON x 64}
+> ItemStack{OAK_SAPLING x 2}
+> ItemStack{GOLDEN_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=75}}
+> ItemStack{RESPAWN_ANCHOR x 2}
+> ItemStack{WHEAT_SEEDS x 2}
+> ItemStack{NETHER_BRICK x 19}
+> ItemStack{COOKED_SALMON x 10}
+> ItemStack{NETHERRACK x 57}
+> ItemStack{BLACKSTONE x 24}
+> ItemStack{TORCH x 54}
+> ItemStack{GOLD_NUGGET x 3}
+> ItemStack{SPRUCE_LOG x 14}
+> ItemStack{STICK x 2}
+> ItemStack{GRAVEL x 64}
+> ItemStack{GLOWSTONE_DUST x 11}
+> ItemStack{FIRE_CHARGE x 12}
+> ItemStack{BLACKSTONE x 20}
+> ItemStack{OBSIDIAN x 8}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={SOUL_SPEED=2}, Damage=13}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=45}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=45}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=45}}
+> ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=67, blockMaterial=SHIELD}}
+
+=== 2. Player Drops ===
+The player would have dropped the following items at the time of this death:
+> ItemStack{DIAMOND_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=10}}
+> ItemStack{DIAMOND_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=85}}
+> ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=923}}
+> ItemStack{DIAMOND_SHOVEL x 1}
+> ItemStack{CARROT x 13}
+> ItemStack{OAK_LOG x 51}
+> ItemStack{CRYING_OBSIDIAN x 6}
+> ItemStack{SPLASH_POTION x 1, POTION_META:{meta-type=POTION, potion-type=minecraft:fire_resistance}}
+> ItemStack{NETHERRACK x 31}
+> ItemStack{IRON_INGOT x 38}
+> ItemStack{GRAVEL x 43}
+> ItemStack{ANCIENT_DEBRIS x 1}
+> ItemStack{GOLDEN_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=31}}
+> ItemStack{LEATHER x 57}
+> ItemStack{BIRCH_LOG x 18}
+> ItemStack{SPLASH_POTION x 1, POTION_META:{meta-type=POTION, potion-type=minecraft:fire_resistance}}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={SOUL_SPEED=1}, Damage=11}}
+> ItemStack{SOUL_SAND x 30}
+> ItemStack{BEACON x 64}
+> ItemStack{OAK_SAPLING x 2}
+> ItemStack{GOLDEN_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=75}}
+> ItemStack{RESPAWN_ANCHOR x 2}
+> ItemStack{WHEAT_SEEDS x 2}
+> ItemStack{NETHER_BRICK x 19}
+> ItemStack{COOKED_SALMON x 10}
+> ItemStack{NETHERRACK x 57}
+> ItemStack{BLACKSTONE x 24}
+> ItemStack{TORCH x 54}
+> ItemStack{GOLD_NUGGET x 3}
+> ItemStack{SPRUCE_LOG x 14}
+> ItemStack{STICK x 2}
+> ItemStack{GRAVEL x 64}
+> ItemStack{GLOWSTONE_DUST x 11}
+> ItemStack{FIRE_CHARGE x 12}
+> ItemStack{BLACKSTONE x 20}
+> ItemStack{OBSIDIAN x 8}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={SOUL_SPEED=2}, Damage=13}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=45}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=45}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=45}}
+> ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=67, blockMaterial=SHIELD}}
+
+=== 3. AngelChest inventory ===
+The AngelChest contains the following items:
+> ItemStack{DIAMOND_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=10}}
+> ItemStack{DIAMOND_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=85}}
+> ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=923}}
+> ItemStack{DIAMOND_SHOVEL x 1}
+> ItemStack{CARROT x 13}
+> ItemStack{OAK_LOG x 51}
+> ItemStack{CRYING_OBSIDIAN x 6}
+> ItemStack{SPLASH_POTION x 1, POTION_META:{meta-type=POTION, potion-type=minecraft:fire_resistance}}
+> ItemStack{NETHERRACK x 31}
+> ItemStack{IRON_INGOT x 38}
+> ItemStack{GRAVEL x 43}
+> ItemStack{ANCIENT_DEBRIS x 1}
+> ItemStack{GOLDEN_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=31}}
+> ItemStack{LEATHER x 57}
+> ItemStack{BIRCH_LOG x 18}
+> ItemStack{SPLASH_POTION x 1, POTION_META:{meta-type=POTION, potion-type=minecraft:fire_resistance}}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={SOUL_SPEED=1}, Damage=11}}
+> ItemStack{SOUL_SAND x 30}
+> ItemStack{BEACON x 64}
+> ItemStack{OAK_SAPLING x 2}
+> ItemStack{GOLDEN_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=75}}
+> ItemStack{RESPAWN_ANCHOR x 2}
+> ItemStack{WHEAT_SEEDS x 2}
+> ItemStack{NETHER_BRICK x 19}
+> ItemStack{COOKED_SALMON x 10}
+> ItemStack{NETHERRACK x 57}
+> ItemStack{BLACKSTONE x 24}
+> ItemStack{TORCH x 54}
+> ItemStack{GOLD_NUGGET x 3}
+> ItemStack{SPRUCE_LOG x 14}
+> ItemStack{STICK x 2}
+> ItemStack{GRAVEL x 64}
+> ItemStack{GLOWSTONE_DUST x 11}
+> ItemStack{FIRE_CHARGE x 12}
+> ItemStack{BLACKSTONE x 20}
+> ItemStack{OBSIDIAN x 8}
+> ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={SOUL_SPEED=2}, Damage=13}}
+> ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=45}}
+> ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=45}}
+> ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=45}}
+> ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=67, blockMaterial=SHIELD}}
+
+[2021-06-16 21:32:31] Player "Cazcez" paid 0.000000 to open this AngelChest for the first time.
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={SOUL_SPEED=2}, Damage=13}}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{IRON_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=45}}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{IRON_CHESTPLATE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=45}}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{IRON_HELMET x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=45}}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{DIAMOND_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=10}}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{DIAMOND_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=85}}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{DIAMOND_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=923}}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{DIAMOND_SHOVEL x 1}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{CARROT x 13}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{OAK_LOG x 51}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{CRYING_OBSIDIAN x 6}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{SPLASH_POTION x 1, POTION_META:{meta-type=POTION, potion-type=minecraft:fire_resistance}}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{NETHERRACK x 31}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{IRON_INGOT x 38}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{GRAVEL x 43}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{ANCIENT_DEBRIS x 1}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{GOLDEN_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=31}}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{LEATHER x 57}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{BIRCH_LOG x 18}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{SPLASH_POTION x 1, POTION_META:{meta-type=POTION, potion-type=minecraft:fire_resistance}}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{IRON_BOOTS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={SOUL_SPEED=1}, Damage=11}}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{SOUL_SAND x 30}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{BEACON x 64}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{OAK_SAPLING x 2}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{GOLDEN_LEGGINGS x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=75}}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{RESPAWN_ANCHOR x 2}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{WHEAT_SEEDS x 2}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{NETHER_BRICK x 19}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{COOKED_SALMON x 10}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{NETHERRACK x 57}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{BLACKSTONE x 24}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{TORCH x 54}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{GOLD_NUGGET x 3}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{SPRUCE_LOG x 14}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{STICK x 2}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{GRAVEL x 64}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{GLOWSTONE_DUST x 11}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{FIRE_CHARGE x 12}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{BLACKSTONE x 20}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{OBSIDIAN x 8}
+[2021-06-16 21:32:32] Player "Cazcez" took item: ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=67, blockMaterial=SHIELD}}
+
+[2021-06-16 21:32:32] Player "Cazcez" took the last item. Removing AngelChest!
+
+=== AngelChest removed ===

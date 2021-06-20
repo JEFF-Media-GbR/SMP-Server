@@ -1,0 +1,90 @@
+=== AngelChest spawned ===
+Player: Vikxng
+Player UUID: b0dd73b1-d5db-4b6a-bd9c-320eb69b4954
+Death Time: 2021-06-16 21:51:47
+Death Location: 509 14 -280 @ world
+Chest Location: 509 14 -280 @ world
+Death Cause: ENTITY_ATTACK
+Player XP: 0.5384616
+Chest XP: 21
+Chest Protection: true
+Chest Duration: 1800 seconds
+
+=== INFORMATION ===
+Please note that some plugins remove certain items on death (soulbound items etc.), while other plugins add certain drops (player heads etc.). That's why this log file show you three different item lists:
+1. The original inventory as it was when the player died. This does not include 3rd party plugin drops, but includes items that would have been removed on death, e.g. curse of vanishing items.
+2. The items the player would have dropped if AngelChest wouldn't be used. This does include 3rd party plugin drops but does not include non-droppable items like curse of vanishing items.
+3. The final AngelChest contents, which is a combination of 1. and 2. and does not include randomly lost items: it includes all custom drops and does not include non-droppable items.
+
+=== 1. Player Inventory ===
+The player had the following items in his inventory at the time of his death:
+> ItemStack{DIRT x 24}
+> ItemStack{DRIPSTONE_BLOCK x 4}
+> ItemStack{COAL x 24}
+> ItemStack{POTATO x 37}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=8}}
+> ItemStack{TORCH x 38}
+> ItemStack{ANDESITE x 8}
+> ItemStack{SHEARS x 1}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=3}}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{STONE_AXE x 1}
+> ItemStack{STONE_AXE x 1}
+> ItemStack{STONE_SHOVEL x 1}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{COBBLESTONE x 44}
+> ItemStack{POISONOUS_POTATO x 3}
+> ItemStack{SPRUCE_PLANKS x 12}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{IRON_PICKAXE x 1}
+
+=== 2. Player Drops ===
+The player would have dropped the following items at the time of this death:
+> ItemStack{DIRT x 24}
+> ItemStack{DRIPSTONE_BLOCK x 4}
+> ItemStack{COAL x 24}
+> ItemStack{POTATO x 37}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=8}}
+> ItemStack{TORCH x 38}
+> ItemStack{ANDESITE x 8}
+> ItemStack{SHEARS x 1}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=3}}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{STONE_AXE x 1}
+> ItemStack{STONE_AXE x 1}
+> ItemStack{STONE_SHOVEL x 1}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{COBBLESTONE x 44}
+> ItemStack{POISONOUS_POTATO x 3}
+> ItemStack{SPRUCE_PLANKS x 12}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{IRON_PICKAXE x 1}
+
+=== 3. AngelChest inventory ===
+The AngelChest contains the following items:
+> ItemStack{DIRT x 24}
+> ItemStack{DRIPSTONE_BLOCK x 4}
+> ItemStack{COAL x 24}
+> ItemStack{POTATO x 37}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=8}}
+> ItemStack{TORCH x 38}
+> ItemStack{ANDESITE x 8}
+> ItemStack{SHEARS x 1}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=3}}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{STONE_AXE x 1}
+> ItemStack{STONE_AXE x 1}
+> ItemStack{STONE_SHOVEL x 1}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{COBBLESTONE x 44}
+> ItemStack{POISONOUS_POTATO x 3}
+> ItemStack{SPRUCE_PLANKS x 12}
+> ItemStack{STONE_PICKAXE x 1}
+> ItemStack{IRON_PICKAXE x 1}
+

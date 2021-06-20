@@ -1,0 +1,151 @@
+=== AngelChest spawned ===
+Player: mfnalex
+Player UUID: 2214115f-fb07-49da-a954-8c757801be03
+Death Time: 2021-06-17 13:37:17
+Death Location: 408 64 -400 @ world
+Chest Location: 407 64 -400 @ world
+Death Cause: PROJECTILE
+Player XP: 0.7391303
+Chest XP: 56
+Chest Protection: true
+Chest Duration: 1800 seconds
+
+=== INFORMATION ===
+Please note that some plugins remove certain items on death (soulbound items etc.), while other plugins add certain drops (player heads etc.). That's why this log file show you three different item lists:
+1. The original inventory as it was when the player died. This does not include 3rd party plugin drops, but includes items that would have been removed on death, e.g. curse of vanishing items.
+2. The items the player would have dropped if AngelChest wouldn't be used. This does include 3rd party plugin drops but does not include non-droppable items like curse of vanishing items.
+3. The final AngelChest contents, which is a combination of 1. and 2. and does not include randomly lost items: it includes all custom drops and does not include non-droppable items.
+
+=== 1. Player Inventory ===
+The player had the following items in his inventory at the time of his death:
+> ItemStack{WOODEN_AXE x 1}
+> ItemStack{BONE x 1}
+> ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=118}}
+> ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=43}}
+> ItemStack{DIAMOND_PICKAXE x 1}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{COBBLESTONE_STAIRS x 3}
+> ItemStack{GRANITE x 23}
+> ItemStack{TUFF x 5}
+> ItemStack{CARROT x 7}
+> ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=36}}
+> ItemStack{COBBLESTONE x 25}
+> ItemStack{DIORITE x 24}
+> ItemStack{BUCKET x 2}
+> ItemStack{OXEYE_DAISY x 1}
+> ItemStack{OAK_LOG x 25}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=13}}
+> ItemStack{STONE_PRESSURE_PLATE x 1}
+> ItemStack{FLINT x 4}
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=18}}
+> ItemStack{STONE_SWORD x 1}
+> ItemStack{WHEAT x 26}
+> ItemStack{OAK_FENCE x 32}
+> ItemStack{STONE x 2}
+> ItemStack{ITEM_FRAME x 61}
+> ItemStack{OAK_PLANKS x 38}
+> ItemStack{ARROW x 4}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=14}}
+> ItemStack{COBBLESTONE_STAIRS x 64}
+> ItemStack{TORCH x 34}
+
+=== 2. Player Drops ===
+The player would have dropped the following items at the time of this death:
+> ItemStack{WOODEN_AXE x 1}
+> ItemStack{BONE x 1}
+> ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=118}}
+> ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=43}}
+> ItemStack{DIAMOND_PICKAXE x 1}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{COBBLESTONE_STAIRS x 3}
+> ItemStack{GRANITE x 23}
+> ItemStack{TUFF x 5}
+> ItemStack{CARROT x 7}
+> ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=36}}
+> ItemStack{COBBLESTONE x 25}
+> ItemStack{DIORITE x 24}
+> ItemStack{BUCKET x 2}
+> ItemStack{OXEYE_DAISY x 1}
+> ItemStack{OAK_LOG x 25}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=13}}
+> ItemStack{STONE_PRESSURE_PLATE x 1}
+> ItemStack{FLINT x 4}
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=18}}
+> ItemStack{STONE_SWORD x 1}
+> ItemStack{WHEAT x 26}
+> ItemStack{OAK_FENCE x 32}
+> ItemStack{STONE x 2}
+> ItemStack{ITEM_FRAME x 61}
+> ItemStack{OAK_PLANKS x 38}
+> ItemStack{ARROW x 4}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=14}}
+> ItemStack{COBBLESTONE_STAIRS x 64}
+> ItemStack{TORCH x 34}
+
+=== 3. AngelChest inventory ===
+The AngelChest contains the following items:
+> ItemStack{WOODEN_AXE x 1}
+> ItemStack{BONE x 1}
+> ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=118}}
+> ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=43}}
+> ItemStack{DIAMOND_PICKAXE x 1}
+> ItemStack{COBBLESTONE x 64}
+> ItemStack{COBBLESTONE_STAIRS x 3}
+> ItemStack{GRANITE x 23}
+> ItemStack{TUFF x 5}
+> ItemStack{CARROT x 7}
+> ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=36}}
+> ItemStack{COBBLESTONE x 25}
+> ItemStack{DIORITE x 24}
+> ItemStack{BUCKET x 2}
+> ItemStack{OXEYE_DAISY x 1}
+> ItemStack{OAK_LOG x 25}
+> ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=13}}
+> ItemStack{STONE_PRESSURE_PLATE x 1}
+> ItemStack{FLINT x 4}
+> ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=18}}
+> ItemStack{STONE_SWORD x 1}
+> ItemStack{WHEAT x 26}
+> ItemStack{OAK_FENCE x 32}
+> ItemStack{STONE x 2}
+> ItemStack{ITEM_FRAME x 61}
+> ItemStack{OAK_PLANKS x 38}
+> ItemStack{ARROW x 4}
+> ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=14}}
+> ItemStack{COBBLESTONE_STAIRS x 64}
+> ItemStack{TORCH x 34}
+
+[2021-06-17 13:37:22] Player "mfnalex" paid 0.000000 to open this AngelChest for the first time.
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{BONE x 1}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{STONE_SHOVEL x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=118}}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=43}}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{DIAMOND_PICKAXE x 1}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{COBBLESTONE x 64}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{COBBLESTONE_STAIRS x 3}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{GRANITE x 23}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{TUFF x 5}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{CARROT x 7}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{STONE_AXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=36}}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{COBBLESTONE x 25}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{DIORITE x 24}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{BUCKET x 2}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{OXEYE_DAISY x 1}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{OAK_LOG x 25}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{STONE_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=13}}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{STONE_PRESSURE_PLATE x 1}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{FLINT x 4}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{STONE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=18}}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{STONE_SWORD x 1}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{WHEAT x 26}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{OAK_FENCE x 32}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{STONE x 2}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{ITEM_FRAME x 61}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{OAK_PLANKS x 38}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{ARROW x 4}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=14}}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{COBBLESTONE_STAIRS x 64}
+[2021-06-17 13:37:23] Player "mfnalex" took item: ItemStack{TORCH x 34}
+
+[2021-06-17 13:37:23] Player "mfnalex" took the last item. Removing AngelChest!
+
+=== AngelChest removed ===

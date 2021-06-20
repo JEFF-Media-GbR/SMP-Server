@@ -1,0 +1,44 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.30.70.176
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1623946674349
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1623947652057
+  login: 1623940997021
+money: '0'
+last-account-name: AcesGamingUK
+lastlocation:
+  world: dd708c59-a9a2-4022-87a4-fab30985f6b3
+  x: 413.20488713591425
+  y: 65.0
+  z: -191.83092497015585
+  yaw: -1.7650253772735596
+  pitch: 26.021747589111328
+homes:
+  home:
+    world: dd708c59-a9a2-4022-87a4-fab30985f6b3
+    x: 305.48467326263705
+    y: 66.0
+    z: 60.39047686583103
+    yaw: -10.785430908203125
+    pitch: 13.950252532958984
+logoutlocation:
+  world: dd708c59-a9a2-4022-87a4-fab30985f6b3
+  x: 303.30000001192093
+  y: 66.0
+  z: 60.52783915177964
+  yaw: -86.5335693359375
+  pitch: 14.849853515625

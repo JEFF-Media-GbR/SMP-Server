@@ -1,0 +1,17 @@
+GayNaziWarriors:
+  Leader: dee0c76f-0ecb-429b-bc5c-db624d907910|Cazcez
+  Locked: true
+  Level: 10
+  Xp: 3387
+  Ally: ''
+  ExpShareMode: NONE
+  ItemShareMode: NONE
+  ItemShareType:
+    LOOT: true
+    MINING: true
+    HERBALISM: true
+    WOODCUTTING: true
+    MISC: true
+  Members:
+  - dee0c76f-0ecb-429b-bc5c-db624d907910|Cazcez
+  - 2214115f-fb07-49da-a954-8c757801be03|mfnalex

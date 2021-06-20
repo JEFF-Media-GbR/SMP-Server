@@ -1,0 +1,58 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 93.123.121.219
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1623952828205
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1623954517846
+  login: 1623951771052
+money: '0'
+last-account-name: Pukejoy_1
+lastlocation:
+  world: dd708c59-a9a2-4022-87a4-fab30985f6b3
+  x: 518.1714610929446
+  y: 63.0
+  z: 62.041647447335464
+  yaw: 98.85274505615234
+  pitch: 34.94993591308594
+logoutlocation:
+  world: dd708c59-a9a2-4022-87a4-fab30985f6b3
+  x: 1019.3000000119209
+  y: 46.0
+  z: 381.4935850372381
+  yaw: 85.9896240234375
+  pitch: 41.24985885620117
+homes:
+  village:
+    world: dd708c59-a9a2-4022-87a4-fab30985f6b3
+    x: 1049.5156579875475
+    y: 66.0
+    z: 349.69999998807907
+    yaw: 179.88592529296875
+    pitch: -1.6500009298324585
+  village2:
+    world: dd708c59-a9a2-4022-87a4-fab30985f6b3
+    x: 894.313815370595
+    y: 64.0
+    z: 292.5839444359249
+    yaw: 91.2076416015625
+    pitch: 25.34986114501953
+  friends:
+    world: dd708c59-a9a2-4022-87a4-fab30985f6b3
+    x: 573.5081083203545
+    y: 66.0
+    z: 67.83779119596647
+    yaw: 90.90008544921875
+    pitch: 6.00001859664917

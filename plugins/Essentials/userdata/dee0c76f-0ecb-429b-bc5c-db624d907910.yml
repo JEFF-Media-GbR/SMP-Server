@@ -1,0 +1,58 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.1.133.213
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1624198675771
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1624199590843
+  login: 1624196274858
+money: '0'
+last-account-name: Cazcez
+lastlocation:
+  world: 50631574-bfae-40eb-98d7-44be6ce5d988
+  x: -119.34361873942936
+  y: 68.875
+  z: 122.45778939598594
+  yaw: 65.47100830078125
+  pitch: 16.97885513305664
+logoutlocation:
+  world: dd708c59-a9a2-4022-87a4-fab30985f6b3
+  x: 519.9369025307508
+  y: 63.0
+  z: 60.97083042895526
+  yaw: -120.27291870117188
+  pitch: 72.7498779296875
+homes:
+  netherbase:
+    world: 50631574-bfae-40eb-98d7-44be6ce5d988
+    x: -116.38681011620947
+    y: 68.0
+    z: 121.30000001192093
+    yaw: 65.47100830078125
+    pitch: 16.97885513305664
+  end:
+    world: 08b0b5ab-ee91-453f-8457-23fb858dad7d
+    x: 3296.455184192018
+    y: 113.0
+    z: -2806.67714066871
+    yaw: 130.12005615234375
+    pitch: 9.950519561767578
+  endportal:
+    world: dd708c59-a9a2-4022-87a4-fab30985f6b3
+    x: 1572.8342943452121
+    y: 63.0
+    z: 840.2033975502499
+    yaw: 80.08921813964844
+    pitch: 41.250099182128906
